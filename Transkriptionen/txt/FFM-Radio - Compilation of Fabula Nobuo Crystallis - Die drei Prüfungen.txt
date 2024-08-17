@@ -16,7 +16,7 @@ Meeresbrise einatme, den leichten Salzgeruch und die warme Sonne auf meiner zum 
 Haut spüre, dann lässt es mich das alles doch fast wieder vergessen. Es riecht schön salzig und feurig und dampfig.
 Ja, ich hab ein bisschen... Das Salz macht mich ein bisschen...
 Warte mal, riechst du das? Das ist doch... Das ist doch Eis. Das ist das weltbekannte Bombe-Eis.
-Das Bombe-Eis gibt es doch hier am Bombe-Man 6. Das Bombe-Eis MC-Sit.
+Das Bombe-Eis gibt es doch hier am Bombe-Man 6. Das Bombe-Eis MC-Cid.
 Ja, das gibt es zwar nicht nur hier, sondern fast überall, aber hier schmeckt es natürlich besonders gut.
 Die sind ja hier am Bombe-Man 6 und da gibt es das Bombe-Eis.
 Ja, original. Natürlich, ja klar.
@@ -56,11 +56,11 @@ Hast du das gehört?
 Ich habe eigentlich nur einen lauten, kreischenden Mob gehört.
 Er hat gesagt, bei einem Wettbewerb in der Stadt, man kann einen Zirkus gewinnen.
 Was wollen wir mit einem Zirkus?
-Einen Zirkus. MC Sid, du weißt ganz genau.
+Einen Zirkus. MC Cid, du weißt ganz genau.
 Mein Wunsch, mein lebenslanger Wunsch war es, einen Zirkus zu gründen.
 Natürlich zum ersten Mal.
 Mitten im Trapez stehe ich da. Das Publikum applaudiert.
-Jeder liebt mich. Jeder liebt mich MC Sid. Jeder liebt mich.
+Jeder liebt mich. Jeder liebt mich MC Cid. Jeder liebt mich.
 Ich bin ein bisschen beeindruckt, dass du weißt, was ein Trapez ist.
 Was?
 Ich bin ein bisschen beeindruckt, dass du weißt, was ein Trapez ist.
@@ -111,7 +111,7 @@ Aber ich weiß nicht.
 Sind sie die Besten?
 Können sie die Besten sein?
 Hallo!
-Oh, DJ Don und MC Sid.
+Oh, DJ Don und MC Cid.
 Ja! Ich glaube!
 Nein.
 Hallo! The Fantasy is with you!
@@ -509,7 +509,7 @@ Tja, das war ja nochmal eine richtige Überraschung.
 Für unsere Favoriten für diesen Wettbewerb.
 Aber nun gut.
 Und somit kommen wir zur Endauswertung dieser Runde.
-DJ Don und MC Sid leider verloren, auch das Küsschen nichts gebracht.
+DJ Don und MC Cid leider verloren, auch das Küsschen nichts gebracht.
 Von daher bis da, da du als einziger das Lied in irgendeiner Form anmoderiert hast, gewinnst du jetzt die dritte Runde.
 Und somit bist du auch unser Gesamtsieger.
 Herzlichen Glückwunsch von mir, Heidegger.
@@ -524,7 +524,7 @@ Nochmal ganz herzlichen Glückwunsch.
 Danke dir, Heidegger, für diesen tollen Preis.
 Vielen Dank, dass genau das habe ich mir gewünscht.
 Aber damit sie nicht ganz leer ausgehen, kommen wir noch zu unseren zweiten Siegern.
-DJ Don und MC Sid, ihr habt ja immerhin einen Wettbewerb gewonnen.
+DJ Don und MC Cid, ihr habt ja immerhin einen Wettbewerb gewonnen.
 Ich bring dich um.
 Wir kriegen trotzdem was.
 Was?
@@ -542,7 +542,7 @@ Das ist ja noch viel besser.
 Eine Muschel?
 Viel Spaß damit.
 Herzlichen Glückwunsch von mir, Heidegger.
-Ich gratuliere dir DJ Don, MC Sid.
+Ich gratuliere dir DJ Don, MC Cid.
 Herzlichen Glückwunsch.
 Danke für's Mitmachen.
 Ihr wart da.

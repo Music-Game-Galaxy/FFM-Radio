@@ -186,7 +186,7 @@ Ja, es hört sich sehr interessant an, aber ich glaube, unser Vorrat an Shinra-G
 Ich hab' furchtbare Migräne, glaub ich.
 Ja, auch. Ich hab' meinen Bauch, der explodiert fast. Ich glaub', ich hab' einen Bomber gegessen.
 Ich bin ganz konfus, ich dreh' mich die ganze Zeit.
-MC Sid und DJ Don, er ist nun bereit, euch zu empfangen.
+MC Cid und DJ Don, er ist nun bereit, euch zu empfangen.
 Oh, okay. Das hört sich aber sexy an.
 Willkommen. War schön, eure Bekanntschaft zu machen.
 Ja, tschüss, ihr zwei Süßen. Bis später.
@@ -205,7 +205,7 @@ Was sollen wir denn hier?
 Was weiß ich?
 Was hat sich dieser Shadow gedacht?
 Gehen wir wieder raus, oder?
-Grüß DJ Don und MC Sid.
+Grüß DJ Don und MC Cid.
 Brooklyn?
 Was? Es war doch eine Falle. Siehst du? Ich hab' dir gesagt, man kann ihm nicht trauen.
 Nein, nein. Shadow, das ist die falsche...
@@ -436,7 +436,7 @@ Ich glaube hinter uns sind Volgatoren her.
 Volgatoren?
 Ja.
 Die sind gruselig.
-Los, MC Sids und DJ Don.
+Los, MC Cids und DJ Don.
 Lauft! Lauft vor zum Palast!
 Ich werde sie aufhalten.
 Wo sollen wir denn entlang gehen?
