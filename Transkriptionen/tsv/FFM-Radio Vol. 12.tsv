@@ -1,0 +1,875 @@
+start	end	text
+0	21000	President Brooklyn, melde Gehorsams! Operation vollendet veredeltes Spitzengeheimnis, erfolgreich abgeschlossen!
+21000	31000	Das ist eine gute Sache. Es ist eine sehr gute Sache. Wie sieht es denn aus mit den beiden Zielpersonen?
+31000	35000	Die Karaktoren haben ihnen zur Wucht verholfen, President Brooklyn.
+35000	45000	Gut, gut. Das lässt sich jetzt auch nicht mehr ändern. Wir beauftragen einen Spezialisten mit der Sache.
+45000	51000	Er wird sich kümmern um MC Cid und DJ Bud.
+51000	74000	In einer Zeit, wo Mox und Chocobos ihr Unwesen treiben, eine Zeit voller Monster, Mysterien und unentdeckten Schätzen, regiert ein grausamer und rachsüchtiger Großkonzern, Shinra.
+74000	81000	Unter seiner Herrschaft werden die Menschen abgestumpft und leer. Jedenliche Fantasie wird geächtet und grausam bestraft.
+81000	92000	Aber da sind zwei mutige Moderatoren, die sich all dem widersetzen. DJ Don und MC Cid. Mit starkem Herzen und offenen Ohren trotzen sie allen Gefahren.
+92000	101000	Sie ziehen durch die Lande stets nur ein Ziel vor Augen, Musik und gute Laune zu verbreiten. Dies sind die Abenteuer von FM Radio.
+104000	109000	Willkommen zu FM Radio. Die Fantasie ist mit euch.
+112000	118000	Willkommen zu FM Radio.
+118000	121000	Nummer 12. Hallo, willkommen.
+121000	124000	Leute, Freunde des FM Radios.
+124000	127000	Freunde der gesunden, heiteren Unterhaltung.
+127000	131000	Genau, wir sind nun beim zwölften FM Radio und euch wird das sicherlich sehr freuen.
+131000	134000	Wir sind zurück im Studio.
+134000	139000	Nach unseren abenteuerlichen Ereignissen auf der Insel der Kaktoren sind wir back to the rules.
+139000	144000	Boah, das war was auf der Insel. Ich hätte ausrasten können.
+144000	146000	Und die verrückten Leute.
+146000	149000	Rückblickend, das war schon ganz schön spannend.
+149000	151000	Nerven zerfetzen.
+151000	153000	Das war langweilig.
+153000	159000	Wer hat denn fast wie ein kleines Mädchen geheult, als er von den Kaktoren gefesselt wurde?
+159000	161000	Die waren ja auch grün und stachelig.
+161000	166000	Aber ich, ich habe manns genug durchgehalten und keine Träne vergossen.
+166000	169000	Aber ich edel, tapfer und heldenmütig gerettet.
+169000	171000	Das interessiert hier überhaupt niemanden.
+171000	173000	Das weiß eh jeder.
+173000	179000	FM Radio ist wieder da und wir spielen Musik, dass euch die Ohren bluten und die Augen bluten und was auch immer noch blutet.
+179000	183000	Das feinste vom feinsten exquisite Unterhaltung nur für euch.
+183000	185000	Und Witze, Gags.
+185000	187000	So witzig.
+187000	189000	Ja, einfach witzig.
+189000	191000	Wirklich, richtig so witzig.
+191000	194000	Manchmal auch ein bisschen traurig, wenn es richtig geht.
+194000	196000	Wir spielen jetzt mal Musik.
+196000	198000	Nämlich ein FF-Lied.
+198000	200000	Ein wunderschönes Final Fantasy Lied.
+200000	202000	Mit Nobuo Unematsu.
+202000	203000	Lasst euch überraschen.
+203000	205000	Viel Spaß.
+213000	215000	Das war's für heute.
+215000	217000	Bis zum nächsten Mal.
+217000	219000	Ciao.
+243000	245000	Ciao.
+245000	247000	Ciao.
+273000	275000	Ciao.
+275000	277000	Ciao.
+303000	305000	Ciao.
+333000	335000	Ciao.
+363000	365000	Ciao.
+393000	395000	Das war's für heute.
+395000	397000	Bis zum nächsten Mal.
+397000	399000	Ciao.
+399000	401000	Ciao.
+423000	425000	Das war's für heute.
+425000	427000	Bis zum nächsten Mal.
+427000	429000	Ciao.
+429000	431000	Ciao.
+431000	433000	Ciao.
+433000	435000	Ciao.
+435000	437000	Ciao.
+437000	439000	Ciao.
+439000	441000	Ciao.
+441000	443000	Ciao.
+443000	445000	Ciao.
+445000	447000	Ciao.
+447000	449000	Ciao.
+450000	452000	Ciao.
+452000	454000	Ciao.
+454000	456000	Ciao.
+456000	458000	Ciao.
+458000	460000	Ciao.
+460000	462000	Ciao.
+462000	464000	Ciao.
+464000	466000	Ciao.
+466000	468000	Ciao.
+468000	470000	Ciao.
+470000	472000	Ciao.
+472000	474000	Ciao.
+474000	476000	Ciao.
+476000	478000	Ciao.
+479000	481000	Ciao.
+481000	483000	Ciao.
+483000	485000	Ciao.
+485000	487000	Ciao.
+487000	489000	Ciao.
+489000	491000	Ciao.
+491000	493000	Ciao.
+493000	495000	Ciao.
+495000	497000	Ciao.
+497000	499000	Ciao.
+499000	501000	Ciao.
+501000	503000	Ciao.
+503000	505000	Ciao.
+506000	508000	Ciao.
+508000	510000	Ciao.
+510000	512000	Ciao.
+512000	514000	Ciao.
+514000	516000	Ciao.
+516000	518000	Ciao.
+518000	520000	Ciao.
+520000	522000	Ciao.
+522000	524000	Ciao.
+524000	526000	Ciao.
+526000	528000	Ciao.
+528000	530000	Ciao.
+530000	532000	Ciao.
+533000	535000	Ciao.
+535000	537000	Ciao.
+537000	539000	Ciao.
+539000	541000	Ciao.
+541000	543000	Ciao.
+543000	545000	Ciao.
+545000	547000	Ciao.
+547000	549000	Ciao.
+549000	551000	Ciao.
+551000	553000	Ciao.
+553000	555000	Ciao.
+555000	557000	Ciao.
+557000	559000	Ciao.
+560000	562000	Ciao.
+562000	564000	Ciao.
+564000	566000	Ciao.
+566000	568000	Ciao.
+568000	570000	Ciao.
+570000	572000	Ciao.
+572000	574000	Ciao.
+574000	576000	Ciao.
+576000	578000	Ciao.
+578000	580000	Ciao.
+580000	582000	Ciao.
+582000	584000	Ciao.
+584000	586000	Ciao.
+587000	589000	Ciao.
+589000	591000	Ciao.
+591000	593000	Ciao.
+593000	595000	Ciao.
+595000	597000	Ciao.
+597000	599000	Ciao.
+599000	601000	Ciao.
+601000	603000	Ciao.
+603000	605000	Ciao.
+605000	607000	Ciao.
+607000	609000	Ciao.
+609000	611000	Ciao.
+611000	613000	Ciao.
+613000	615000	Ciao.
+615000	617000	Ciao.
+617000	619000	Ciao.
+619000	621000	Ciao.
+621000	623000	Ciao.
+623000	625000	woman.
+625000	629000	Denkst du das gleiche was ich denke Was dass wir ein Lied spielen sollten ganz genau
+629000	631000	Ich kann nicht mehr mit dir reden.
+631000	633000	Ich kann nicht mehr mit dir reden.
+633000	635000	Ich kann nicht mehr mit dir reden.
+635000	637000	Ich kann nicht mehr mit dir reden.
+637000	639000	Ich kann nicht mehr mit dir reden.
+639000	641000	Ich kann nicht mehr mit dir reden.
+641000	643000	Ich kann nicht mehr mit dir reden.
+643000	645000	Ich kann nicht mehr mit dir reden.
+645000	647000	Ich kann nicht mehr mit dir reden.
+647000	649000	Ich kann nicht mehr mit dir reden.
+649000	651000	Ich kann nicht mehr mit dir reden.
+651000	653000	Ich kann nicht mehr mit dir reden.
+653000	655000	Ich kann nicht mehr mit dir reden.
+655000	657000	Ich kann nicht mehr mit dir reden.
+657800	661000	Auch wenn ich mich mit einem anderen Menschen vergleiche,
+661000	663000	firmen sie mir 그럼 ils régionale Beläden.
+663000	665000	Füres, um traurig zu werden,
+665000	667000	ist, wenn ich ves你在.
+675000	683020	Die 담un großen Palmg 생w fewerveder
+683020	687020	Ich weiß nicht, ob ich noch wohnen kann.
+687020	693020	Die Antwort ist immer, immer nur,
+693020	702020	dass ich mich neben dir kippe und verschwinde.
+702020	708020	Kindheit hat eine Kindheit geboren.
+708020	713020	Die Schmerzen verfolgen die Schmerzen.
+713020	718020	Das ist das Leben der Menschen.
+718020	723020	Das ist das Leben der Menschen.
+723020	728020	Wenn ich zu viel an mich kümmern werde,
+728020	733020	werde ich ein wenig entspannter werden.
+733020	738020	Ich bin immer in Form.
+738020	741020	Ich bin immer in Form.
+741020	747020	Ich bin immer in Form.
+764020	770020	Könnte ich für die Menschen, die mich lieben,
+770020	774020	leben?
+774020	779020	Ich habe mich woanders unbekannt verletzt
+779020	784020	und habe unbekannte Füße gemacht.
+784020	789020	Vielleicht kann ich
+789020	794020	die Tür nicht öffnen.
+794020	799020	Deswegen möchte ich dich
+799020	804020	vor der unbekannten Tür
+804020	809020	immer noch
+809020	814020	warten.
+815020	818020	Ich weiß nicht,
+818020	821020	wie ich nach vorne schwimmen werde.
+821020	824020	Ich werde immer
+824020	831020	unbekannte Füße machen.
+831020	835020	Ich wollte die Realität immer noch
+835020	838020	verändern.
+838020	843020	Aber nichts hat mich geändert.
+843020	848020	Ich werde immer noch
+848020	853020	unbekannte Füße machen.
+853020	858020	Wenn ich die Füße deiner Hand
+858020	863020	mit dir habe,
+863020	868020	könnte ich dich
+868020	873020	immer noch
+873020	878020	verlassen.
+878020	883020	Ich will die Freude, die ich glaube,
+883020	885020	immer noch
+885020	888020	fühle.
+888020	893020	Jetzt kann ich die Tür, die noch nicht
+893020	896020	bekannte,
+896020	901020	verlassen.
+923020	928020	Ich werde immer
+928020	933020	unbekannte Füße machen.
+933020	938020	Ich werde immer
+938020	943020	unbekannte Füße machen.
+943020	948020	Ich werde immer
+948020	952020	unbekannte Füße machen.
+952020	957020	Ich werde immer
+957020	962020	unbekannte Füße machen.
+962020	967020	Ich werde immer
+967020	972020	unbekannte Füße machen.
+972020	977020	Ich werde immer
+977020	982020	unbekannte Füße machen.
+982020	987020	Ich werde immer
+987020	992020	unbekannte Füße machen.
+992020	997020	Ich werde immer
+997020	1002020	unbekannte Füße machen.
+1002020	1007020	Ich werde immer
+1007020	1012020	unbekannte Füße machen.
+1012020	1017020	Ich werde immer
+1017020	1022020	unbekannte Füße machen.
+1022020	1027020	Ich werde immer
+1027020	1032020	unbekannte Füße machen.
+1032020	1037020	Ich werde immer
+1037020	1042020	unbekannte Füße machen.
+1042020	1047020	Ich werde immer
+1047020	1052020	unbekannte Füße machen.
+1052020	1057020	Ich werde immer
+1057020	1062020	unbekannte Füße machen.
+1062020	1067020	Ich werde immer
+1067020	1072020	unbekannte Füße machen.
+1072020	1077020	Ich werde immer
+1077020	1082020	unbekannte Füße machen.
+1082020	1087020	Ich werde immer
+1087020	1092020	unbekannte Füße machen.
+1092020	1097020	Ich werde immer
+1097020	1102020	unbekannte Füße machen.
+1102020	1107020	Ich werde immer
+1107020	1112020	unbekannte Füße machen.
+1112020	1117020	Ich werde immer
+1117020	1122020	unbekannte Füße machen.
+1122020	1127020	Ich werde immer
+1127020	1132020	unbekannte Füße machen.
+1132020	1137020	Ich werde immer
+1137020	1142020	unbekannte Füße machen.
+1142020	1147020	Ich werde immer
+1147020	1152020	unbekannte Füße machen.
+1152020	1157020	Ich werde immer
+1157020	1162020	unbekannte Füße machen.
+1162020	1167020	Ich werde immer
+1167020	1172020	unbekannte Füße machen.
+1172020	1177020	Ich werde immer
+1177020	1182020	unbekannte Füße machen.
+1182020	1187020	Ich werde immer
+1187020	1192020	unbekannte Füße machen.
+1192020	1197020	Ich werde immer
+1197020	1202020	unbekannte Füße machen.
+1202020	1207020	Ich werde immer
+1207020	1212020	unbekannte Füße machen.
+1212020	1217020	Ich werde immer
+1217020	1222020	unbekannte Füße machen.
+1222020	1227020	Ich werde immer
+1227020	1232020	unbekannte Füße machen.
+1232020	1237020	Ich werde immer
+1237020	1242020	unbekannte Füße machen.
+1242020	1247020	Ich werde immer
+1247020	1252020	unbekannte Füße machen.
+1252020	1257020	Ich werde immer
+1257020	1262020	unbekannte Füße machen.
+1262020	1267020	Ich werde immer
+1267020	1272020	unbekannte Füße machen.
+1272020	1277020	Ich werde immer
+1277020	1282020	unbekannte Füße machen.
+1282020	1287020	Ich werde immer
+1287020	1292020	unbekannte Füße machen.
+1292020	1297020	Ich werde immer
+1297020	1302020	unbekannte Füße machen.
+1302020	1307020	Ich werde immer
+1307020	1312020	unbekannte Füße machen.
+1312020	1317020	Ich werde immer
+1317020	1322020	unbekannte Füße machen.
+1322020	1327020	Ich werde immer
+1327020	1332020	unbekannte Füße machen.
+1332020	1337020	Ich werde immer
+1337020	1342020	unbekannte Füße machen.
+1342020	1347020	Ich werde immer
+1347020	1352020	unbekannte Füße machen.
+1352020	1357020	Ich werde immer
+1357020	1362020	unbekannte Füße machen.
+1362020	1367020	Ich werde immer
+1367020	1372020	unbekannte Füße machen.
+1372020	1377020	Ich werde immer
+1377020	1382020	unbekannte Füße machen.
+1382020	1387020	Ich werde immer
+1387020	1392020	unbekannte Füße machen.
+1392020	1397020	Ich werde immer
+1397020	1402020	unbekannte Füße machen.
+1402020	1407020	Ich werde immer
+1407020	1412020	unbekannte Füße machen.
+1412020	1417020	Ich werde immer
+1417020	1422020	unbekannte Füße machen.
+1422020	1427020	Ich werde immer
+1427020	1432020	unbekannte Füße machen.
+1432020	1437020	Ich werde immer
+1437020	1442020	unbekannte Füße machen.
+1442020	1447020	Ich werde immer
+1447020	1452020	unbekannte Füße machen.
+1452020	1457020	Ich werde immer
+1457020	1462020	unbekannte Füße machen.
+1462020	1467020	Ich werde immer
+1467020	1472020	unbekannte Füße machen.
+1472020	1475020	A thousand words,
+1475020	1477020	a thousand embraces
+1477020	1479020	will cradle you.
+1479020	1482020	Making all of your weary days
+1482020	1485020	seem far away.
+1485020	1491020	They'll hold you forever.
+1502020	1507020	A thousand words
+1507020	1510020	have never been spoken.
+1510020	1512020	They'll fly to you.
+1512020	1514020	They'll carry you home
+1514020	1518020	and back into my arms.
+1518020	1523020	Suspended on silver wings
+1523020	1529020	and back into my arms.
+1530020	1533020	A thousand words
+1533020	1535020	come out through the ages
+1535020	1538020	will cradle you.
+1538020	1540020	Turning all of the lonely
+1540020	1544020	into lonely days.
+1544020	1550020	They'll hold you forever.
+1559020	1564020	Ich werde immer
+1564020	1569020	unbekannte Füße machen.
+1569020	1574020	Ich werde immer
+1574020	1579020	unbekannte Füße machen.
+1589020	1594020	Ich werde immer
+1594020	1599020	unbekannte Füße machen.
+1599020	1604020	Ich werde immer
+1604020	1609020	unbekannte Füße machen.
+1609020	1614020	Ich werde immer
+1614020	1618020	unbekannte Füße machen.
+1618020	1623020	Ich werde immer
+1623020	1628020	unbekannte Füße machen.
+1628020	1633020	Ich werde immer
+1633020	1638020	unbekannte Füße machen.
+1638020	1643020	Ich werde immer
+1643020	1647020	unbekannte Füße machen.
+1647020	1652020	Ich werde immer
+1652020	1657020	unbekannte Füße machen.
+1657020	1662020	Ich werde immer
+1662020	1667020	unbekannte Füße machen.
+1667020	1672020	Ich werde immer
+1672020	1676020	unbekannte Füße machen.
+1676020	1681020	Ich werde immer
+1681020	1686020	unbekannte Füße machen.
+1686020	1691020	Ich werde immer
+1691020	1696020	unbekannte Füße machen.
+1696020	1701020	Ich werde immer
+1701020	1706020	unbekannte Füße machen.
+1706020	1711020	Ich werde immer
+1711020	1716020	unbekannte Füße machen.
+1716020	1721020	Ich werde immer
+1721020	1726020	unbekannte Füße machen.
+1726020	1731020	Ich werde immer
+1731020	1736020	unbekannte Füße machen.
+1736020	1741020	Ich werde immer
+1741020	1746020	unbekannte Füße machen.
+1746020	1751020	Ich werde immer
+1751020	1756020	unbekannte Füße machen.
+1756020	1761020	Ich werde immer
+1761020	1766020	unbekannte Füße machen.
+1766020	1771020	Ich werde immer
+1771020	1776020	unbekannte Füße machen.
+1776020	1781020	Ich werde immer
+1781020	1786020	unbekannte Füße machen.
+1786020	1791020	Ich werde immer
+1791020	1796020	unbekannte Füße machen.
+1796020	1801020	Ich werde immer
+1801020	1806020	unbekannte Füße machen.
+1806020	1811020	Ich werde immer
+1811020	1816020	unbekannte Füße machen.
+1816020	1821020	Ich werde immer
+1821020	1826020	unbekannte Füße machen.
+1826020	1831020	Ich werde immer
+1831020	1836020	unbekannte Füße machen.
+1836020	1841020	Ich werde immer
+1841020	1846020	unbekannte Füße machen.
+1846020	1851020	Ich werde immer
+1851020	1856020	unbekannte Füße machen.
+1856020	1861020	Ich werde immer
+1861020	1866020	unbekannte Füße machen.
+1866020	1871020	Ich werde immer
+1871020	1876020	unbekannte Füße machen.
+1876020	1881020	Ich werde immer
+1881020	1886020	unbekannte Füße machen.
+1886020	1891020	Ich werde immer
+1891020	1896020	unbekannte Füße machen.
+1896020	1901020	Ich werde immer
+1901020	1906020	unbekannte Füße machen.
+1906020	1911020	Ich werde immer
+1911020	1916020	unbekannte Füße machen.
+1916020	1921020	Ich werde immer
+1921020	1926020	unbekannte Füße machen.
+1926020	1931020	Ich werde immer
+1931020	1936020	unbekannte Füße machen.
+1956020	1961020	Ich werde
+1961020	1966020	unbekannte Füße machen.
+1966020	1971020	Ich werde immer
+1971020	1976020	unbekannte Füße machen.
+1976020	1981020	Ich werde immer
+1981020	1986020	unbekannte Füße machen.
+1986020	1991020	Ich werde immer
+1991020	1996020	unbekannte Füße machen.
+1996020	2001020	Ich werde immer
+2001020	2006020	unbekannte Füße machen.
+2006020	2011020	Ich werde immer
+2011020	2016020	unbekannte Füße machen.
+2016020	2021020	Ich werde immer
+2021020	2026020	unbekannte Füße machen.
+2026020	2031020	Ich werde immer
+2031020	2036020	unbekannte Füße machen.
+2036020	2041020	Ich werde immer
+2041020	2046020	unbekannte Füße machen.
+2046020	2051020	Ich werde immer
+2051020	2056020	unbekannte Füße machen.
+2056020	2061020	Ich werde immer
+2061020	2066020	unbekannte Füße machen.
+2066020	2071020	Ich werde immer
+2071020	2076020	unbekannte Füße machen.
+2076020	2081020	Ich werde immer
+2081020	2086020	unbekannte Füße machen.
+2086020	2091020	Ich werde immer
+2091020	2096020	unbekannte Füße machen.
+2111020	2116020	Ich werde
+2116020	2121020	unbekannte Füße machen.
+2121020	2126020	Ich werde immer
+2126020	2131020	unbekannte Füße machen.
+2131020	2136020	Ich werde immer
+2136020	2141020	unbekannte Füße machen.
+2141020	2146020	Ich werde immer
+2146020	2151020	unbekannte Füße machen.
+2151020	2156020	Ich werde immer
+2156020	2161020	unbekannte Füße machen.
+2161020	2166020	Ich werde immer
+2166020	2171020	unbekannte Füße machen.
+2171020	2176020	Ich werde immer
+2176020	2181020	unbekannte Füße machen.
+2181020	2186020	Ich werde immer
+2186020	2191020	unbekannte Füße machen.
+2191020	2196020	Ich werde immer
+2196020	2201020	unbekannte Füße machen.
+2201020	2206020	Ich werde immer
+2206020	2211020	unbekannte Füße machen.
+2211020	2216020	Ich werde immer
+2216020	2221020	unbekannte Füße machen.
+2221020	2226020	Ich werde immer
+2226020	2231020	unbekannte Füße machen.
+2231020	2236020	Ich werde immer
+2236020	2241020	unbekannte Füße machen.
+2266020	2271020	Ich werde
+2271020	2276020	unbekannte Füße machen.
+2276020	2281020	Ich werde immer
+2281020	2286020	unbekannte Füße machen.
+2286020	2291020	Ich werde immer
+2291020	2296020	unbekannte Füße machen.
+2296020	2301020	Ich werde immer
+2301020	2306020	unbekannte Füße machen.
+2306020	2311020	Ich werde immer
+2311020	2316020	unbekannte Füße machen.
+2316020	2321020	Ich werde immer
+2321020	2326020	unbekannte Füße machen.
+2326020	2331020	Ich werde immer
+2331020	2336020	unbekannte Füße machen.
+2336020	2341020	Ich werde immer
+2341020	2346020	unbekannte Füße machen.
+2346020	2351020	Ich werde immer
+2351020	2356020	unbekannte Füße machen.
+2356020	2361020	Ich werde immer
+2361020	2366020	unbekannte Füße machen.
+2366020	2371020	Ich werde immer
+2371020	2376020	unbekannte Füße machen.
+2376020	2381020	Ich werde immer
+2381020	2386020	unbekannte Füße machen.
+2386020	2391020	Ich werde immer
+2391020	2396020	unbekannte Füße machen.
+2396020	2401020	Ich werde immer
+2401020	2406020	unbekannte Füße machen.
+2406020	2411020	Ich werde immer
+2411020	2416020	unbekannte Füße machen.
+2416020	2421020	Ich werde immer
+2421020	2426020	unbekannte Füße machen.
+2426020	2431020	Ich werde immer
+2431020	2436020	unbekannte Füße machen.
+2436020	2441020	Ich werde immer
+2441020	2446020	unbekannte Füße machen.
+2446020	2451020	Ich werde immer
+2451020	2456020	unbekannte Füße machen.
+2456020	2461020	Ich werde immer
+2461020	2466020	unbekannte Füße machen.
+2466020	2471020	Ich werde immer
+2471020	2476020	unbekannte Füße machen.
+2476020	2481020	Ich werde immer
+2481020	2486020	unbekannte Füße machen.
+2486020	2491020	Ich werde immer
+2491020	2496020	unbekannte Füße machen.
+2496020	2501020	Ich werde immer
+2501020	2506020	unbekannte Füße machen.
+2506020	2511020	Ich werde immer
+2511020	2516020	unbekannte Füße machen.
+2516020	2521020	Ich werde immer
+2521020	2526020	unbekannte Füße machen.
+2526020	2531020	Ich werde immer
+2531020	2536020	unbekannte Füße machen.
+2536020	2541020	Ich werde immer
+2541020	2546020	unbekannte Füße machen.
+2546020	2551020	Ich werde immer
+2551020	2556020	unbekannte Füße machen.
+2556020	2561020	Ich werde immer
+2561020	2566020	unbekannte Füße machen.
+2566020	2571020	Ich werde immer
+2571020	2576020	unbekannte Füße machen.
+2576020	2581020	Ich werde immer
+2581020	2586020	unbekannte Füße machen.
+2586020	2591020	Ich werde immer
+2591020	2596020	unbekannte Füße machen.
+2596020	2601020	Ich werde immer
+2601020	2606020	unbekannte Füße machen.
+2606020	2611020	Ich werde immer
+2611020	2616020	unbekannte Füße machen.
+2616020	2621020	Ich werde immer
+2621020	2626020	unbekannte Füße machen.
+2626020	2631020	Ich werde immer
+2631020	2636020	unbekannte Füße machen.
+2636020	2641020	Ich werde immer
+2641020	2646020	unbekannte Füße machen.
+2646020	2651020	Ich werde immer
+2651020	2656020	unbekannte Füße machen.
+2656020	2661020	Ich werde immer
+2661020	2666020	unbekannte Füße machen.
+2666020	2671020	Ich werde immer
+2671020	2676020	unbekannte Füße machen.
+2676020	2681020	Ich werde immer
+2681020	2686020	unbekannte Füße machen.
+2686020	2691020	Ich werde immer
+2691020	2696020	unbekannte Füße machen.
+2696020	2701020	Ich werde immer
+2701020	2706020	unbekannte Füße machen.
+2706020	2711020	Ich werde immer
+2711020	2716020	unbekannte Füße machen.
+2716020	2721020	Ich werde immer
+2721020	2726020	unbekannte Füße machen.
+2726020	2731020	Ich werde immer
+2731020	2736020	unbekannte Füße machen.
+2736020	2741020	Ich werde immer
+2741020	2746020	unbekannte Füße machen.
+2746020	2751020	Ich werde immer
+2751020	2756020	unbekannte Füße machen.
+2756020	2761020	Ich werde immer
+2761020	2766020	unbekannte Füße machen.
+2766020	2771020	Ich werde immer
+2771020	2776020	unbekannte Füße machen.
+2776020	2781020	Ich werde immer
+2781020	2786020	unbekannte Füße machen.
+2786020	2791020	Ich werde immer
+2791020	2796020	unbekannte Füße machen.
+2796020	2801020	Ich werde immer
+2801020	2806020	unbekannte Füße machen.
+2806020	2811020	Ich werde immer
+2811020	2816020	unbekannte Füße machen.
+2816020	2821020	Ich werde immer
+2821020	2826020	unbekannte Füße machen.
+2826020	2831020	Ich werde immer
+2831020	2836020	unbekannte Füße machen.
+2836020	2841020	Ich werde immer
+2841020	2846020	unbekannte Füße machen.
+2846020	2851020	Ich werde immer
+2851020	2856020	unbekannte Füße machen.
+2856020	2861020	Ich werde immer
+2861020	2866020	unbekannte Füße machen.
+2866020	2871020	Ich werde immer
+2871020	2876020	unbekannte Füße machen.
+2876020	2881020	Ich werde immer
+2881020	2886020	unbekannte Füße machen.
+2886020	2891020	Ich werde immer
+2891020	2896020	unbekannte Füße machen.
+2896020	2901020	Ich werde immer
+2901020	2906020	unbekannte Füße machen.
+2906020	2911020	Ich werde immer
+2911020	2916020	unbekannte Füße machen.
+2916020	2921020	Ich werde immer
+2921020	2926020	unbekannte Füße machen.
+2926020	2931020	Ich werde immer
+2931020	2936020	unbekannte Füße machen.
+2936020	2941020	Ich werde immer
+2941020	2946020	unbekannte Füße machen.
+2946020	2951020	Ich werde immer
+2951020	2956020	unbekannte Füße machen.
+2956020	2961020	Ich werde immer
+2961020	2966020	unbekannte Füße machen.
+2966020	2971020	Ich werde immer
+2971020	2976020	unbekannte Füße machen.
+2976020	2981020	Ich werde immer
+2981020	2986020	unbekannte Füße machen.
+2986020	2991020	Und nun die Werbung.
+2991020	2996020	DJ Don Radio.
+2996020	3001020	Kennt ihr das?
+3001020	3006020	Ihr zieht mit euren Kumpels durch die Straßen auf der Suche nach Gaudi.
+3006020	3011020	Aber nirgendwo findet ihr einen vernünftigen Platz, um euch gnadenlos zu betrinken.
+3011020	3016020	Ein Ort, der nur dafür gemacht worden ist.
+3016020	3021020	FFM Cocktail Bar.
+3021020	3026020	Mit altbekannten Klassikern wie z.B. Vivi's Wacktzen.
+3026020	3031020	Oder dem allzeit beliebten Frocktail.
+3031020	3036020	Aber auch ausgefallene Köstlichkeiten wie den Shinra Spezial.
+3036020	3041020	Für mehr Informationen besuchen Sie die Website fmradio.de.
+3041020	3046020	Jetzt die große neue Öffnung.
+3046020	3051020	Alles, was Sie suchen im Gimme More General Store.
+3051020	3056020	Wir haben alles von Versicherung über Ihre Beratung, Bankinsolvenz, Feinderschulden, Eintreibergericht,
+3056020	3061020	Bezahlung, Bau oder Diamanten.
+3062020	3067020	Und jetzt gleich, wie jedes Mal nach FFM Radio,
+3067020	3072020	die 100 nervigsten Moggris.
+3072020	3077020	Herzlich willkommen bei den 100 nervigsten Moggris, Kupo.
+3077020	3082020	Mein Name ist Ingolf Mock und ich heiße Sie herzlich nach dem FFM Radio
+3082020	3087020	willkommen bei unserer tollen Sendung, Kupo. Sie haben abgestimmt, Kupo.
+3087020	3092020	Die 100 nervigsten Moggris, Kupo, ist es Moggolina Jolie oder George Doublemock.
+3092020	3097020	Oder der Papst Moggedick der 16. Kupo.
+3097020	3102020	Sie werden es erfahren gleich nach dem FFM Radio, Kupo.
+3102020	3107020	Also sieht so aus, als läuft das Radio wieder.
+3107020	3112020	Ja, habe ich es endlich geschafft, dieses nervige Insekt zu verdrängen.
+3112020	3117020	Ich werde dir nun wieder meine volle Aufmerksamkeit widmen.
+3117020	3122020	Ja, das ist schon erschreckend, wie sehr man sich Menschen irren kann.
+3122020	3127020	Wo waren wir doch vorhin im Gespräch stehen geblieben?
+3127020	3132020	Richtig, ich glaube, du wolltest mir ein persönliches Solo darbieten.
+3132020	3137020	Ja gerne, ich würde dir gerne privat noch was vorsehen, wenn du jetzt Zeit hast.
+3137020	3142020	Da hat man einen wunderbaren Ton und da ist man ungestört.
+3142020	3147020	Also es bietet sich natürlich an.
+3147020	3152020	Ist hier doch jetzt nicht mehr auf Sendung, oder?
+3152020	3157020	Nein, nein, habe ich schon ausgemacht. Kommt gerade Musik oder so.
+3157020	3162020	Brauchst du noch irgendwelche Requisiten, Mikrofone, Hütchen oder sowas?
+3163020	3168020	Wir haben hier noch eine Kiste von alten Requisiten.
+3168020	3173020	Schau mal, Handschellen, das sind ja wirklich tolle Requisiten. Ich würde sagen, die nehme ich mal mit.
+3173020	3178020	Halt! Hier ist DJ Don und mein Name ist Gesetz.
+3178020	3183020	Don, stör uns nicht, wir sind gerade in einer wichtigen Angelegenheit unterwegs.
+3183020	3188020	MCC, dieser Mensch da drüben, das ist nicht Helena, das ist Elena von den Turks.
+3188020	3193020	Jaja, das ist kein Mensch, das ist ein Engel.
+3193020	3198020	Die ist böse, abgrundlich böse. Die will uns alle in die Luft sprengen, MCC.
+3198020	3203020	Wie kannst du nur so etwas Furchtbares behaupten?
+3203020	3208020	Mir hat Shadow, ein komischer Mann mit Kapuze, das hat mir gesagt und ich glaube ihm auf Wort.
+3208020	3213020	Hast du etwa deine Medikamente hier vergessen?
+3214020	3219020	Helena, du bist festgenommen im Namen des Dons.
+3219020	3224020	Komm, MCC, hilf mir, die zu binden. Die halten mir schon Handschellen, dann ist das ja gut.
+3224020	3229020	Sit, glaubst du etwa ihm? Vertraust du mir nicht?
+3229020	3234020	Sit, ich bin ein alter Freund. Glaubst du ihr oder glaubst du mir?
+3234020	3239020	DJ Don, du bist doch nur neidisch! Du bist doch nur neidisch auf uns zwei.
+3239020	3244020	Du bist ein versifften Piratensender, wo du hingehörst.
+3244020	3249020	Ich werde dich nicht in die Luft sprengen sehen, deswegen nehme ich dich jetzt mit. Verdammt, lass mich los!
+3249020	3254020	Halt, alle beide. Keiner rührt sich vom Fleck.
+3254020	3259020	Ich hab nie gesagt, sie ist böse. Ich hab nie gesagt, sie ist böse. Sie ist böse.
+3259020	3264020	Helena, halt sie mir vom Leib, richtig so.
+3264020	3269020	Denk an unsere Zeit. Denk an unsere Freundschaft. Denk an unseren Hass auf Mox.
+3269020	3274020	Ich fessel dich jetzt. Glaub doch. Denk an deinen Hass auf Mox, MCC.
+3274020	3279020	Nein. Der Hass auf Mox. Ich denke nur an meine Liebe.
+3279020	3284020	Denk an Regisseur Paul. Nein, hör mir auf. Denk an Doktor Stilzkind.
+3284020	3289020	Nein. Du weißt. Hör auf. Ich kenne keine Mox.
+3290020	3295020	Verdammt noch mal. Geht das nicht schneller? Ich hab nicht den ganzen Tag Zeit.
+3295020	3300020	Sie ist so böse. Das kann jedes Mal eine Meinungsverstümmtheit.
+3300020	3305020	Verdammt noch mal. Sit, jetzt mach endlich. Siehst du nicht, dass er uns auseinander treiben will?
+3305020	3309020	Ich weiß nicht, Donny. MCC, glaub an dein Herz.
+3309020	3314020	Verdammt nichts, jetzt geht beide in die Ecke und rührt euch nicht mehr. Pass auf, du triffst doch mich.
+3314020	3318020	Ach, das wäre auch so tragisch. Wie blöd kann man eigentlich sein?
+3318020	3322020	Aber unsere Seelenverwandtschaft.
+3322020	3327020	Seelenverwandtschaft? Also zwischen euch komm ich mir vor wie die Butter in einem Idioten-Sandwich.
+3327020	3331020	Ich mag Sandwich. Habt ihr es immer noch nicht? Ich bin Elena von den Turks.
+3331020	3335020	Siehst du, MCC. Das kann doch alles nicht wahr sein.
+3335020	3339020	Ist es aber. Shinra hat mich beauftragt, das FFM-Studio zu zerstören.
+3340020	3342020	Shinra?
+3342020	3344020	Verschwörung. Jetzt kommt alles zusammen.
+3344020	3348020	Kaffee. Kommunismus. Ich versteh's immer noch nicht.
+3351020	3353020	Elena, ich...
+3353020	3355020	MCC, sit. Hörst du mich? Sit.
+3355020	3360020	Nun, überlasse ich euch mal eurem Schicksal und spiel euch zum Abschied noch ein kleines Liedchen vor.
+3360020	3367020	Nein, das ist der Shinra-Song. Wir müssen hier verschwenden.
+3367020	3373020	MCC! MCC! MCC!
+3397020	3399020	MCC!
+3427020	3429020	MCC!
+3439020	3443020	Sit. Bitte wach auf. Sit. Aufwachen.
+3447020	3449020	Kuchen und Tee.
+3449020	3451020	Sit. Aufwachen. Bitte.
+3451020	3453020	Liebst du noch?
+3457020	3459020	Was ist denn los?
+3459020	3463020	Elena ist Elena, ist Turk, ist Böse, hat dich erschlagen.
+3463020	3468020	Oh mein Gott. DJ Don, was ist passiert?
+3468020	3470020	Wie bist du aus diesem Studio raus, MCC?
+3470020	3474020	Ja, ja, ja, ja. Was immer du sagst.
+3474020	3478020	Ich frag dich, MCC, und wenn es das Letzte ist, was ich tue...
+3478020	3481020	Wackel doch nicht so.
+3481020	3483020	Das wäre schlecht.
+3483020	3492020	Auch wenn wir das immer leben, aber nur falls wir das nicht überleben, wollte ich dir nur sagen, die Radiomotorationszeit war die beste meines ganzen Lebens.
+3492020	3496020	Ich hab dich auch gern und wackel nicht so.
+3496020	3503020	Das Piepen wird lauter. Hörst du nicht das Piepen? Das Piepen. Piepen.
+3503020	3506020	Wo läufst du denn hin? Das ist aber nicht der Haupteingang.
+3506020	3510020	Die andere Richtung. Ich kann nicht mehr MCC.
+3510020	3515020	Zum Notausgang geht's rechts, du Pappnase.
+3515020	3518020	Nein, nicht das rechts, das andere rechts.
+3518020	3521020	Ja, der Ausgang, der Ausgang.
+3521020	3526020	Lass mich doch mal runter, das ist ja furchtbar hier. Schlimmer als auf dem Schiff.
+3526020	3528020	Komm, spring!
+3528020	3531020	Ja, ich komm ja, mach doch keine Hexen...
+3540020	3543020	DJ Don, was ist da gerade explodiert?
+3543020	3549020	Das Studio ist zerstört worden, MCC. Ja, aber Gott sei Dank konnte ich unsere tagbare Musikbox retten.
+3549020	3552020	Unser Studio, das war gerade erst abbezahlt.
+3552020	3556020	Wer ist dafür verantwortlich? Hat das alles mit dieser Verschwörung zu tun?
+3556020	3558020	Kann doch alles nicht wahr sein.
+3558020	3560020	Und wozu war nochmal der Kaffee da?
+3560020	3562020	Was sollen wir denn jetzt machen?
+3562020	3564020	Ja, ich weiß ja auch nicht, wie wir weitermachen sollen.
+3564020	3568020	Ich erinnere mich wieder, das war Elena, dieses hinterhältige Stick.
+3568020	3570020	Wie konnte ich mich...
+3570020	3573020	Meinst du sie ist mit dem Leben davongekommen?
+3573020	3576020	Das weiß ich nicht MCC. So vieles weiß ich nicht.
+3576020	3579020	Kaffeeverschwörung, Kommunismus, ich weiß es nicht.
+3579020	3584020	Aber eins, das ist mir sicher. Der wahre Feind hat sich noch nicht gezeigt.
+3654020	3656020	Das ist mein Freund.
+3656020	3658020	Das ist mein Freund.
+3658020	3660020	Das ist mein Freund.
+3660020	3662020	Das ist mein Freund.
+3662020	3664020	Das ist mein Freund.
+3664020	3666020	Das ist mein Freund.
+3666020	3668020	Das ist mein Freund.
+3668020	3670020	Das ist mein Freund.
+3670020	3672020	Das ist mein Freund.
+3672020	3674020	Das ist mein Freund.
+3674020	3676020	Das ist mein Freund.
+3676020	3678020	Das ist mein Freund.
+3678020	3680020	Das ist mein Freund.
+3680020	3682020	Das ist mein Freund.
+3682020	3684020	Das ist mein Freund.
+3684020	3686020	Das ist mein Freund.
+3686020	3688020	Das ist mein Freund.
+3688020	3690020	Das ist mein Freund.
+3690020	3692020	Das ist mein Freund.
+3692020	3694020	Das ist mein Freund.
+3694020	3696020	Das ist mein Freund.
+3696020	3698020	Das ist mein Freund.
+3698020	3700020	Das ist mein Freund.
+3700020	3702020	Das ist mein Freund.
+3702020	3704020	Das ist mein Freund.
+3704020	3706020	Das ist mein Freund.
+3706020	3708020	Das ist mein Freund.
+3708020	3710020	Das ist mein Freund.
+3710020	3712020	Das ist mein Freund.
+3712020	3714020	Das ist mein Freund.
+3714020	3716020	Das ist mein Freund.
+3716020	3718020	Das ist mein Freund.
+3718020	3720020	Das ist mein Freund.
+3720020	3722020	Das ist mein Freund.
+3722020	3724020	Das ist mein Freund.
+3724020	3726020	Das ist mein Freund.
+3726020	3728020	Das ist mein Freund.
+3728020	3730020	Das ist mein Freund.
+3730020	3732020	Das ist mein Freund.
+3732020	3734020	Das ist mein Freund.
+3734020	3736020	Das ist mein Freund.
+3736020	3738020	Das ist mein Freund.
+3738020	3740020	Das ist mein Freund.
+3740020	3742020	Das ist mein Freund.
+3742020	3744020	Das ist mein Freund.
+3744020	3746020	Das ist mein Freund.
+3746020	3748020	Das ist mein Freund.
+3750020	3752020	Das ist mein Freund.
+3752020	3754020	Das ist mein Freund.
+3754020	3756020	Das ist mein Freund.
+3756020	3758020	Das ist mein Freund.
+3758020	3760020	Das ist mein Freund.
+3760020	3762020	Das ist mein Freund.
+3762020	3764020	Das ist mein Freund.
+3764020	3766020	Das ist mein Freund.
+3766020	3768020	Das ist mein Freund.
+3768020	3770020	Das ist mein Freund.
+3770020	3772020	Das ist mein Freund.
+3772020	3774020	Das ist mein Freund.
+3776020	3778020	Das ist mein Freund.
+3778020	3780020	Das ist mein Freund.
+3780020	3782020	Das ist mein Freund.
+3782020	3784020	Das ist mein Freund.
+3784020	3786020	Das ist mein Freund.
+3786020	3788020	Das ist mein Freund.
+3788020	3790020	Das ist mein Freund.
+3790020	3792020	Das ist mein Freund.
+3792020	3794020	Das ist mein Freund.
+3794020	3796020	Das ist mein Freund.
+3796020	3798020	Das ist mein Freund.
+3798020	3800020	Das ist mein Freund.
+3800020	3802020	Das ist mein Freund.
+3802020	3804020	Das ist mein Freund.
+3804020	3806020	Das ist mein Freund.
+3806020	3808020	Das ist mein Freund.
+3808020	3810020	Das ist mein Freund.
+3810020	3812020	Das ist mein Freund.
+3812020	3814020	Das ist mein Freund.
+3814020	3816020	Das ist mein Freund.
+3816020	3818020	Das ist mein Freund.
+3818020	3820020	Das ist mein Freund.
+3820020	3822020	Das ist mein Freund.
+3822020	3824020	Das ist mein Freund.
+3824020	3826020	Das ist mein Freund.
+3828020	3830020	Das ist mein Freund.
+3830020	3832020	Das ist mein Freund.
+3832020	3834020	Das ist mein Freund.
+3834020	3836020	Das ist mein Freund.
+3836020	3838020	Das ist mein Freund.
+3838020	3840020	Das ist mein Freund.
+3840020	3842020	Das ist mein Freund.
+3842020	3844020	Das ist mein Freund.
+3844020	3846020	Das ist mein Freund.
+3846020	3848020	Das ist mein Freund.
+3848020	3850020	Das ist mein Freund.
+3850020	3852020	Das ist mein Freund.
+3852020	3854020	Das ist mein Freund.
+3854020	3856020	Das ist mein Freund.
+3856020	3858020	Das ist mein Freund.
+3860020	3862020	Das ist mein Freund.
+3862020	3864020	Das ist mein Freund.
+3864020	3866020	Das ist mein Freund.
+3866020	3868020	Das ist mein Freund.
+3868020	3870020	Das ist mein Freund.
+3870020	3872020	Das ist mein Freund.
+3872020	3874020	Das ist mein Freund.
+3874020	3876020	Das ist mein Freund.
+3876020	3878020	Das ist mein Freund.
+3878020	3880020	Das ist mein Freund.
+3880020	3882020	Das ist mein Freund.
+3882020	3884020	Das ist mein Freund.
+3886020	3888020	Das ist mein Freund.
+3888020	3890020	Das ist mein Freund.
+3890020	3892020	Das ist mein Freund.
+3892020	3894020	Das ist mein Freund.
+3894020	3896020	Das ist mein Freund.
+3896020	3898020	Das ist mein Freund.
+3898020	3900020	Das ist mein Freund.
+3900020	3902020	Das ist mein Freund.
+3902020	3904020	Das ist mein Freund.
+3904020	3906020	Das ist mein Freund.
+3906020	3908020	Das ist mein Freund.
+3908020	3910020	Das ist mein Freund.
+3910020	3912020	Das ist mein Freund.
+3914020	3916020	Das ist mein Freund.
+3916020	3918020	Das ist mein Freund.
+3918020	3920020	Das ist mein Freund.
+3920020	3922020	Das ist mein Freund.
+3922020	3924020	Das ist mein Freund.
+3924020	3926020	Das ist mein Freund.
+3926020	3928020	Das ist mein Freund.
+3928020	3930020	Das ist mein Freund.
+3930020	3932020	Das ist mein Freund.
+3932020	3934020	Das ist mein Freund.
+3934020	3936020	Das ist mein Freund.
+3936020	3938020	Das ist mein Freund.
+3938020	3940020	Das ist mein Freund.
+3940020	3942020	Das ist mein Freund.
+3944020	3946020	Das ist mein Freund.
+3946020	3948020	Das ist mein Freund.
