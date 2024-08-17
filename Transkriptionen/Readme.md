@@ -6,7 +6,7 @@ Es wurde folgender Befehl verwendet:
 whisper ffm1.mp3 --model medium --language German
 
 Das Model medium hat bessere Ergebnisse als small und large produziert.
-Ausnahme: FFM-Radio Vol. 2 musste mit small erzeugt werden, medium hat nur Unsinn erzeugt. Daher ist die Qualität der Erkennung hier etwas schlechter.
+Ausnahme: FFM-Radio Vol. 2, Das geheimnisvolle Königreich der Morbols und das Timetravel-Special mussten mit small erzeugt werden, medium hat nur Unsinn erzeugt. Daher ist die Qualität der Erkennung hier etwas schlechter.
 
 Die Dateien wurden am 17.08.2024 erstellt.
 

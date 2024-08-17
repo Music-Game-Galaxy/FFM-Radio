@@ -1,1284 +1,2720 @@
 1
-00:00:00,000 --> 00:00:13,680
-.
+00:00:00,000 --> 00:00:17,320
+Wie lange brauchst du denn noch? Wie lange kann ein Mensch denn bitte rauchen, um seinen
 
 2
-00:00:13,760 --> 00:00:15,160
-Wie lang brauchst du denn noch?
+00:00:17,320 --> 00:00:18,320
+Koffer zu packen?
 
 3
-00:00:15,240 --> 00:00:18,320
-Wie lang kann ein Mensch denn bitte rauchen, um seinen Koffer zu packen?
+00:00:18,320 --> 00:00:22,280
+Ja, ich suchte noch meinen Zocken MCs. Ich weiß nicht, wo meine Zocken sind, meine Chocobo-Socken.
 
 4
-00:00:18,400 --> 00:00:20,400
-Ich suche meine Socken MCS.
+00:00:22,280 --> 00:00:27,280
+Ich habe zwei Zocken. Eine links und eine für das andere, was andere von links. Ich weiß
 
 5
-00:00:20,480 --> 00:00:22,560
-Ich weiß nicht, wo meine Socken sind, meine Chocobo-Socken.
+00:00:27,280 --> 00:00:30,840
+nicht genau, wie das heißt. Aber wo ist der Zocken? Ich finde ihn, ich suche ihn schon
 
 6
-00:00:22,640 --> 00:00:26,120
-Ich hab zwei Socken, eine links und eine für das andere,
+00:00:30,840 --> 00:00:33,040
+den ganzen Tag. In meiner Ecke ist der Zocken.
 
 7
-00:00:26,200 --> 00:00:28,240
-was das andere von links. Ich weiß nicht genau, was das heißt.
+00:00:33,040 --> 00:00:35,360
+Ist gut, ich leide einen von meinen Zocken.
 
 8
-00:00:28,240 --> 00:00:33,080
-Aber wo ist denn der Socken? Ich suche schon den ganzen Tag, ich mein in keiner Ecke ist der Socken.
+00:00:35,360 --> 00:00:39,680
+Nein! Ich will nicht deine komischen Morbol-Socken. Die stinken wie alte Morbols.
 
 9
-00:00:33,080 --> 00:00:34,760
-Siehs gut, ich leide einen von meinen.
+00:00:39,680 --> 00:00:41,280
+Schau mal, die sind grün.
 
 10
-00:00:34,760 --> 00:00:39,600
-Nein! Ich will nicht deine komischen Mawballsocken, die stinken wie alte Mawballs.
-
-11
-00:00:39,600 --> 00:00:41,200
-Guck mal, die sind grün.
-
-12
-00:00:41,200 --> 00:00:41,700
+00:00:41,280 --> 00:00:42,280
 Grün?
 
-13
-00:00:41,700 --> 00:00:42,680
+11
+00:00:42,280 --> 00:00:43,280
 Die sind voll schick.
 
-14
-00:00:42,680 --> 00:00:44,200
+12
+00:00:43,280 --> 00:00:44,280
 Und stinken.
 
+13
+00:00:44,280 --> 00:00:45,280
+Die stinken überhaupt nicht.
+
+14
+00:00:45,280 --> 00:00:46,280
+Ich wacke sie nicht.
+
 15
-00:00:44,200 --> 00:00:45,440
-Die stinken überhaupt nicht, ich wacke sie nicht.
+00:00:46,280 --> 00:00:48,760
+Ich will meine eigenen Zocken. Ich habe meine ganz persönlichen Zocken und ich brauche sie
 
 16
-00:00:45,440 --> 00:00:49,600
-Ich will meine eigenen Socken. Ich habe meine ganz persönlichen Socken und ich brauche sie für mich alleine.
+00:00:48,760 --> 00:00:49,760
+für mich alleine.
 
 17
-00:00:49,600 --> 00:00:50,400
-Wenn man zwei Paar hat.
+00:00:49,760 --> 00:00:50,760
+Wenn man zwei Prater...
 
 18
-00:00:50,400 --> 00:00:52,400
-Ohne meine Socken verreiß ich nicht.
+00:00:50,760 --> 00:00:52,240
+Ohne meine Zocken verreist ich nicht.
 
 19
-00:00:52,400 --> 00:00:54,400
+00:00:52,240 --> 00:00:54,840
 Dann such, wo hast du sie denn das letzte Mal gesehen?
 
 20
-00:00:54,560 --> 00:00:59,560
-Das weiß ich doch nicht. Ich weiß, ich hatte sie an die letzte Woche und jetzt weiß ich auch nicht mehr, wo ich sie hingetan habe.
+00:00:54,840 --> 00:00:58,640
+Ich weiß nicht. Ich hatte sie an die letzte Woche und jetzt weiß ich auch nicht mehr,
 
 21
-00:00:59,560 --> 00:01:01,560
-Hast du mal unterm Schrank geguckt?
+00:00:58,640 --> 00:00:59,640
+wo ich sie hingetan habe.
 
 22
-00:01:01,560 --> 00:01:05,560
-Unterm Schrank? Die sind doch nie unterm Schrank, als hätte ich meine Socken unterm Schrank geguckt.
+00:00:59,640 --> 00:01:01,640
+Hast du mal unter dem Schrank geguckt?
 
 23
-00:01:05,560 --> 00:01:06,560
-Hast du unterm Schrank geguckt?
+00:01:01,640 --> 00:01:02,640
+Unter dem Schrank?
 
 24
-00:01:06,560 --> 00:01:07,560
-Nein, darum geht es ja nicht.
+00:01:02,640 --> 00:01:03,640
+Die sind doch nie im Unterenschrank.
 
 25
-00:01:07,560 --> 00:01:08,560
-Guck doch mal unterm Schrank.
+00:01:03,640 --> 00:01:04,640
+Ganz ehrlich, meinem Zocken-Unterschrank.
 
 26
-00:01:08,560 --> 00:01:09,560
-Wo gucke ich halt unterm Schrank?
+00:01:04,640 --> 00:01:05,640
+Hast du unter dem Schrank geguckt?
 
 27
-00:01:09,560 --> 00:01:12,560
-Siehst du, da ist mein... Ja wir können gehen.
+00:01:05,640 --> 00:01:07,640
+Nein, aber da um die Zeit...
 
 28
-00:01:12,560 --> 00:01:13,560
-Hast du alles?
+00:01:07,640 --> 00:01:08,640
+Dann guck doch mal unter dem Schrank.
 
 29
-00:01:13,560 --> 00:01:14,560
-Ja.
+00:01:08,640 --> 00:01:09,640
+Dann gucke ich halt unter dem Schrank.
 
 30
-00:01:14,560 --> 00:01:16,560
-Hast du auch an alles gedacht? Reisepass?
+00:01:09,640 --> 00:01:11,640
+Siehst du, da ist mein...
 
 31
-00:01:16,560 --> 00:01:17,560
-Reisepass, ja.
+00:01:11,640 --> 00:01:12,640
+Ja, wir können gehen.
 
 32
-00:01:17,560 --> 00:01:18,560
-Echo Kraut?
+00:01:12,640 --> 00:01:13,640
+Hast du alles?
 
 33
-00:01:18,560 --> 00:01:19,560
-Echo Kraut.
+00:01:13,640 --> 00:01:14,640
+Ja.
 
 34
-00:01:19,560 --> 00:01:20,560
-Potion?
+00:01:14,640 --> 00:01:16,640
+Hast du auch an alles gedacht? Reisepass?
 
 35
-00:01:20,560 --> 00:01:21,560
-Und Hype Potion.
+00:01:16,640 --> 00:01:17,640
+Reisepass, ja.
 
 36
-00:01:21,560 --> 00:01:23,560
-Und den Ether für alle Fälle?
+00:01:17,640 --> 00:01:18,640
+Echo Kraut?
 
 37
-00:01:23,720 --> 00:01:24,720
-Ja klar.
+00:01:18,640 --> 00:01:19,640
+Echo Kraut.
 
 38
-00:01:24,720 --> 00:01:25,720
-Zelt?
+00:01:19,640 --> 00:01:20,640
+Portion?
 
 39
-00:01:25,720 --> 00:01:26,720
-Zelt habe ich, aber keine Hütte.
+00:01:20,640 --> 00:01:21,640
+Und High Portion.
 
 40
-00:01:26,720 --> 00:01:29,720
-Und ich hoffe, das allerwichtigste hast du auch eingepackt.
+00:01:21,640 --> 00:01:23,640
+Und den Eta für alle Fälle?
 
 41
-00:01:29,720 --> 00:01:31,720
-Den Moknuss in Zafta?
+00:01:23,640 --> 00:01:24,640
+Ja, klar.
 
 42
-00:01:31,720 --> 00:01:34,720
-Nein, eigentlich meinte ich die Musikbox.
+00:01:24,640 --> 00:01:25,440
+Zelt?
 
 43
-00:01:34,720 --> 00:01:41,720
-Die Musikbox, natürlich. Ich vergesse doch nicht die Musikbox. Die Musikbox ist das wichtigste, was wir buxen, wir sitzen.
+00:01:25,440 --> 00:01:26,440
+Zelt, habe ich.
 
 44
-00:01:41,720 --> 00:01:42,720
-Hast du auch alles abgeschlossen?
+00:01:26,440 --> 00:01:27,440
+Aber keine Hütte.
 
 45
-00:01:42,720 --> 00:01:44,720
-Natürlich habe ich alles abgeschlossen.
+00:01:27,440 --> 00:01:30,440
+Und ich hoffe, das Allerwichtigste hast du auch eingepackt.
 
 46
-00:01:44,720 --> 00:01:47,720
-Auch die Hintertür, die vergisst du ja gerne mal.
+00:01:30,440 --> 00:01:32,440
+Den Mognus und Saft?
 
 47
-00:01:47,720 --> 00:01:51,720
-Natürlich, Hintertür. Das mache ich immer als erstes, immer.
+00:01:32,440 --> 00:01:34,440
+Nein, eigentlich meinte ich die Musik-Books.
 
 48
-00:01:51,880 --> 00:01:54,880
-Alles klar. Komm, dann gib mir die Schlüssel, lieber. Dann gehen wir jetzt mal.
+00:01:34,440 --> 00:01:36,440
+Die Musik-Books, natürlich.
 
 49
-00:01:54,880 --> 00:01:58,880
-Okay. Tschüss. Tschüss, altes Heim. Tschüss.
+00:01:36,440 --> 00:01:38,440
+Ich vergesse doch nicht die Musik-Box.
 
 50
-00:01:58,880 --> 00:02:01,880
-Du musst jetzt nicht noch allem auf Wiedersehen sagen.
+00:01:38,440 --> 00:01:41,440
+Die Musik-Books ist das Wichtigste, was wir buxen und besitzen.
 
 51
-00:02:01,880 --> 00:02:04,880
-Du, das ist wichtig. Das ist ein emotionaler Moment für mich.
+00:01:41,440 --> 00:01:43,440
+Hast du auch alles abgeschlossen?
 
 52
-00:02:04,880 --> 00:02:07,880
-So ein Neuanfang, der tut einem so weh im Herz.
+00:01:43,440 --> 00:01:45,440
+Natürlich habe ich alles abgeschlossen.
 
 53
-00:02:07,880 --> 00:02:08,880
-Das war doch dein Vorschlag.
+00:01:45,440 --> 00:01:47,440
+Auch die Hintertür, die vergisst du ja gerne mal.
 
 54
-00:02:08,880 --> 00:02:09,880
-Ja.
+00:01:47,440 --> 00:01:49,440
+Natürlich, Hintertür.
 
 55
-00:02:09,880 --> 00:02:10,880
-Du wolltest doch weg.
+00:01:49,440 --> 00:01:51,440
+Mach ich immer als erstes, immer.
 
 56
-00:02:10,880 --> 00:02:11,880
-Ja.
+00:01:51,440 --> 00:01:52,440
+Alles klar.
 
 57
-00:02:11,880 --> 00:02:12,880
-Draus.
+00:01:52,440 --> 00:01:54,440
+Komm, dann gibt mir die Schlüssel lieber, dann gehen wir jetzt mal.
 
 58
-00:02:12,880 --> 00:02:15,880
-Ja, wir gehen ja jetzt auch weg.
+00:01:54,440 --> 00:01:56,440
+Okay. Tschüss.
 
 59
-00:02:15,880 --> 00:02:16,880
-Ja.
+00:01:56,440 --> 00:01:58,440
+Tschüss, Altersheim.
 
 60
-00:02:16,880 --> 00:02:17,880
-Du hast sogar selber die Tickets.
+00:01:58,440 --> 00:02:01,440
+Du musst jetzt nicht noch allem auf Wiedersehen sagen.
 
 61
-00:02:17,880 --> 00:02:20,880
-Es ist halt nicht so einfach.
+00:02:01,440 --> 00:02:03,440
+Du, das ist wichtig.
 
 62
-00:02:21,040 --> 00:02:27,040
-Oh, oh, oh, oh, oh, ein Pochen an der Bunkertür. Wer kann das wohl sein?
+00:02:03,440 --> 00:02:05,440
+Das ist ein emotionaler Moment für mich.
 
 63
-00:02:27,040 --> 00:02:28,040
-Wir wollten doch eh weg.
+00:02:05,440 --> 00:02:07,440
+So ein neuer Empfang, der tut einen so weh im Herz.
 
 64
-00:02:28,040 --> 00:02:31,040
-Jenova, wir können nicht. Ich kann doch keine Schnittchen mehr sehen.
+00:02:07,440 --> 00:02:09,440
+Das war doch dein Vorschlag.
 
 65
-00:02:31,040 --> 00:02:34,040
-Wir haben gewonnen. Kupo, wir haben gewonnen.
+00:02:09,440 --> 00:02:10,440
+Ja.
 
 66
-00:02:34,040 --> 00:02:35,040
-Gewonnen.
+00:02:10,440 --> 00:02:11,440
+Du wolltest doch weg.
 
 67
-00:02:35,040 --> 00:02:38,040
-Siehst du, ich habe gewonnen. Ich habe endlich gewonnen.
+00:02:11,440 --> 00:02:12,440
+Ja.
 
 68
-00:02:38,040 --> 00:02:40,040
-Mach keinen Fehler.
+00:02:12,440 --> 00:02:13,440
+Und raus.
 
 69
-00:02:40,040 --> 00:02:41,040
-Jetzt lass mich.
+00:02:13,440 --> 00:02:14,440
+Ja, jetzt.
 
 70
-00:02:41,040 --> 00:02:42,040
-Wieso?
+00:02:14,440 --> 00:02:16,440
+Wir gehen ja jetzt auch weg.
 
 71
-00:02:42,040 --> 00:02:43,040
-Hör auf, mich abzufassen.
+00:02:16,440 --> 00:02:17,440
+Ja.
 
 72
-00:02:43,040 --> 00:02:44,040
-Kupo, du nicht aufmachen.
+00:02:17,440 --> 00:02:19,440
+Du hast sogar selber die Tickets.
 
 73
-00:02:44,040 --> 00:02:46,040
-Aber ich habe gewonnen. Ich habe endlich mal was gewonnen.
+00:02:19,440 --> 00:02:21,440
+Es ist halt nicht so einfach.
 
 74
-00:02:46,040 --> 00:02:48,040
-Ich habe noch nie in meinem Leben gewonnen.
+00:02:21,440 --> 00:02:23,440
+Oh, oh, oh, oh, oh.
 
 75
-00:02:48,040 --> 00:02:49,040
-Wir haben gewonnen.
+00:02:23,440 --> 00:02:25,440
+Ein Pochen an der Bunkertür.
 
 76
-00:02:49,040 --> 00:02:50,040
-Kupo, gewonnen.
+00:02:25,440 --> 00:02:27,440
+Wer kann das wohl sein?
 
 77
-00:02:50,200 --> 00:02:51,200
-Gewonnen. Kupo.
+00:02:27,440 --> 00:02:29,440
+Wir wollten noch eh weg.
 
 78
-00:02:51,200 --> 00:02:53,200
-Was gewonnen? Was habe ich denn gewonnen?
+00:02:29,440 --> 00:02:31,440
+Jeno, wir können nicht. Ich kann auch keine Schnittchen mehr sehen.
 
 79
-00:02:53,200 --> 00:02:55,200
-Irgendwie war es cooles Geld.
+00:02:31,440 --> 00:02:33,440
+Wir haben gewonnen.
 
 80
-00:02:55,200 --> 00:02:57,200
-Unsere Aufmerksamkeit. Kupo.
+00:02:33,440 --> 00:02:35,440
+Wir haben gewonnen, haben Sie?
 
 81
-00:02:57,200 --> 00:03:02,200
-Hilfe? Aufmerksamkeit? Ich wollte keine Aufmerksamkeit gewinnen.
+00:02:35,440 --> 00:02:36,440
+Gewonnen.
 
 82
-00:03:02,200 --> 00:03:06,200
-Du hast ihn reingelassen. Jetzt musst du auch zusehen, was du damit machst.
+00:02:36,440 --> 00:02:38,440
+Hörst du, wie sie gesagt hat, ich habe gewonnen.
 
 83
-00:03:06,200 --> 00:03:11,200
-Das ist ja interessant. Was haben Sie denn hier für eine Einrichtung, Kupo?
+00:02:38,440 --> 00:02:39,440
+Ich habe endlich gewonnen.
 
 84
-00:03:11,200 --> 00:03:14,200
-Das ist unser Studio, das ist unser Radio. Hier sind die Mikrofone.
+00:02:39,440 --> 00:02:40,440
+Mach keinen Fehler.
 
 85
-00:03:14,200 --> 00:03:17,200
-Hier ist unsere Musikbox, wo wir den ganzen Video haben.
+00:02:40,440 --> 00:02:41,440
+Jetzt, aus mich.
 
 86
-00:03:17,200 --> 00:03:19,200
-Kannst du mal auffüllen, das geht alles zu Zeit.
+00:02:41,440 --> 00:02:42,440
+Wieso jetzt?
 
 87
-00:03:19,360 --> 00:03:21,360
-Die ist ja interessiert für unser Studio.
+00:02:42,440 --> 00:02:44,440
+Hör auf mich an zu fassen.
 
 88
-00:03:21,360 --> 00:03:24,360
-Vielleicht ist das ja ein Räuber.
+00:02:44,440 --> 00:02:46,440
+Aber ich habe gewonnen, ich habe endlich gewonnen.
 
 89
-00:03:24,360 --> 00:03:27,360
-Ein Räuber? Das ist doch kein Dieb. Diebe sehen ganz anders aus.
+00:02:46,440 --> 00:02:48,440
+Ich habe noch niemanden gewonnen.
 
 90
-00:03:27,360 --> 00:03:30,360
-Diebe haben so grüne Krapuzen und Däufe dabei.
+00:02:48,440 --> 00:02:50,440
+Wir haben gewonnen.
 
 91
-00:03:30,360 --> 00:03:32,360
-Es könnte alles Mögliche sein.
+00:02:50,440 --> 00:02:52,440
+Wir haben gewonnen.
 
 92
-00:03:32,360 --> 00:03:33,360
-Was denn?
+00:02:52,440 --> 00:02:54,440
+Ich habe mich dann gewonnen.
 
 93
-00:03:33,360 --> 00:03:35,360
-Du kannst mir jetzt alles zeigen.
+00:02:54,440 --> 00:02:56,440
+Irgendwie war es cooles Geld.
 
 94
-00:03:35,360 --> 00:03:37,360
-Lieber Räuber, ich meine, lieber kleiner Mock.
+00:02:56,440 --> 00:02:58,440
+Unsere Aufmerksamkeit, Kubo.
 
 95
-00:03:37,360 --> 00:03:40,360
-Mein Name ist übrigens Meier. Mock Meier.
+00:02:58,440 --> 00:03:00,440
+Hilfe? Aufmerksamkeit?
 
 96
-00:03:40,360 --> 00:03:42,360
-Und ich komme von der G-Mock Z.
+00:03:00,440 --> 00:03:02,440
+Ich wollte keine Aufmerksamkeit gewinnen.
 
 97
-00:03:42,360 --> 00:03:44,360
-Die G-Mock Z? Was ist denn das?
+00:03:02,440 --> 00:03:04,440
+Du hast ihn reingelassen.
 
 98
-00:03:44,360 --> 00:03:48,360
-Wir von der G-Mock Z überprüfen immer ganz genau, Kupo,
+00:03:04,440 --> 00:03:06,440
+Jetzt musst du auch zusehen, was du damit machst.
 
 99
-00:03:48,520 --> 00:03:53,520
-welche Geräte in der FM-Welt überhaupt zugelassen sind und welche nicht.
+00:03:06,440 --> 00:03:08,440
+Ach, das ist ja interessant.
 
 100
-00:03:53,520 --> 00:03:56,520
-Denn jeder muss Abgaben zahlen, Kupo. Abgaben an uns.
+00:03:08,440 --> 00:03:10,440
+Was haben Sie denn hier für eine Einrichtung, Kubo?
 
 101
-00:03:56,520 --> 00:03:59,520
-Wieso? Warum? Wieso ist so irgendwas abgeben?
+00:03:10,440 --> 00:03:12,440
+Das ist unser Studio.
 
 102
-00:03:59,520 --> 00:04:01,520
-Ja, ich hab doch nichts.
+00:03:12,440 --> 00:03:14,440
+Das ist unser Radio.
 
 103
-00:04:01,520 --> 00:04:03,520
-Nun, wir sorgen dafür, Kupo,
+00:03:14,440 --> 00:03:16,440
+Hier sind die Mikrofone.
 
 104
-00:04:03,520 --> 00:04:08,520
-dass ein hochqualitatives Radioprogramm in der ganzen Welt entstehen kann.
+00:03:16,440 --> 00:03:18,440
+Hier ist unsere Musikbox.
 
 105
-00:04:08,520 --> 00:04:11,520
-Und dadurch haben wir eine Umverteilung
+00:03:18,440 --> 00:03:20,440
+Ich hoffe, wir haben alles zu zahmen.
 
 106
-00:04:11,520 --> 00:04:15,520
-von etwas fragwürdigen Programmen zu richtigen Programmen, Kupo.
+00:03:20,440 --> 00:03:22,440
+Das ist unsere Studio.
 
 107
-00:04:15,680 --> 00:04:17,680
-Aber in uns sind wir Sorgen dafür,
+00:03:22,440 --> 00:03:24,440
+Vielleicht ist das ja eine Räuber.
 
 108
-00:04:17,680 --> 00:04:19,680
-dass hochqualitiv Sendungen hier produziert werden.
+00:03:24,440 --> 00:03:26,440
+Eine Räuber?
 
 109
-00:04:19,680 --> 00:04:22,680
-Also, was hochqualitativ ist, Kupo, das entscheiden immer noch wir.
+00:03:26,440 --> 00:03:28,440
+Das ist doch kein Dieb.
 
 110
-00:04:22,680 --> 00:04:23,680
-Ich denke nicht.
+00:03:28,440 --> 00:03:30,440
+Diebe sehen ganz anders aus.
 
 111
-00:04:23,680 --> 00:04:25,680
-Also, es ist ja alles sehr interessant.
+00:03:30,440 --> 00:03:32,440
+Diebe haben so grüne Kapuzen, Dinger und Deuch dabei.
 
 112
-00:04:25,680 --> 00:04:27,680
-Aber was hab ich denn jetzt gewonnen?
+00:03:32,440 --> 00:03:34,440
+Ja, es könnte alles mögliche sein.
 
 113
-00:04:27,680 --> 00:04:29,680
-Da war doch was von einem Gewinn. Stimmt's, MC Sid?
+00:03:34,440 --> 00:03:36,440
+Ja, was denn?
 
 114
-00:04:29,680 --> 00:04:31,680
-Ich krieg doch jetzt was geschenkt, nicht?
+00:03:36,440 --> 00:03:38,440
+Räuber, ich meine, lieber kleiner Mock.
 
 115
-00:04:31,680 --> 00:04:35,680
-Aber dann haben Sie doch wenigstens die Gebühren für die Lieder bezahlt,
+00:03:38,440 --> 00:03:40,440
+Mein Name ist übrigens Maya.
 
 116
-00:04:35,680 --> 00:04:37,680
-die Sie gespielt haben, Kupo.
+00:03:40,440 --> 00:03:42,440
+Und ich komme von der Gmock Z.
 
 117
-00:04:37,680 --> 00:04:39,680
-Gebühren? Was denn für Gebühren?
+00:03:42,440 --> 00:03:44,440
+Die Gmock Z? Was ist denn das?
 
 118
-00:04:39,680 --> 00:04:43,680
-Nun, wenn Sie solche ausländischen Titel spielen,
+00:03:44,440 --> 00:03:47,440
+Wir von der Gmock Z überprüfen immer ganz genau, Kubo.
 
 119
-00:04:43,840 --> 00:04:45,840
-die die Menschen da draußen gerne hören, Kupo,
+00:03:47,440 --> 00:03:51,440
+Welche Geräte in der FFM-Welt überhaupt zugelassen sind?
 
 120
-00:04:45,840 --> 00:04:49,840
-dann müssen Sie natürlich auch Abgaben an uns zahlen.
+00:03:51,440 --> 00:03:53,440
+Und welche nicht?
 
 121
-00:04:49,840 --> 00:04:51,840
-Ich dachte, du hast, als du das gerade gegründet hast,
+00:03:53,440 --> 00:03:55,440
+Denn jeder muss Abgaben zahlen, Kubo.
 
 122
-00:04:51,840 --> 00:04:53,840
-ein Fundament gelegt, ein rechtliches Fundament,
+00:03:55,440 --> 00:03:57,440
+Abgaben an uns.
 
 123
-00:04:53,840 --> 00:04:55,840
-und du hättest das alles abgesichert.
+00:03:57,440 --> 00:03:59,440
+Wieso? Warum?
 
 124
-00:04:55,840 --> 00:04:58,840
-Ich hab diesen Stein hier hingestellt als Fundament.
+00:03:59,440 --> 00:04:01,440
+Wieso ist es so irgendwas abgeben?
 
 125
-00:04:58,840 --> 00:05:00,840
-Ich hab er rechtlich abgesichert.
+00:04:01,440 --> 00:04:03,440
+Ja, ich habe doch nichts.
 
 126
-00:05:00,840 --> 00:05:02,840
-Das ist doch eh, also, man guckt mal,
+00:04:03,440 --> 00:04:05,440
+Nun, wir sorgen dafür,
 
 127
-00:05:02,840 --> 00:05:05,840
-leid, aber man gibt immer Geld aus, um sich abzusichern.
+00:04:05,440 --> 00:04:07,440
+dass ein hochqualitatives Radio-Programm
 
 128
-00:05:05,840 --> 00:05:07,840
-Man hat was und man hat was nicht.
+00:04:07,440 --> 00:04:09,440
+in der ganzen Welt entstehen kann.
 
 129
-00:05:07,840 --> 00:05:09,840
-Nö, ja, immer, Kupo.
+00:04:09,440 --> 00:04:11,440
+Und dadurch haben wir eine Umverteilung
 
 130
-00:05:10,000 --> 00:05:14,000
-Wenn Sie nicht in einer halben Stunde alle Gebühren nachgezahlt haben,
+00:04:11,440 --> 00:04:13,440
+von etwas fragwürdigen Programmen
 
 131
-00:05:14,000 --> 00:05:17,000
-dann kommen Sie vor ein Militärgerecht
+00:04:13,440 --> 00:04:15,440
+zu richtigen.
 
 132
-00:05:17,000 --> 00:05:19,000
-und werden im Höchstfall erschossen.
+00:04:15,440 --> 00:04:17,440
+Und wir sorgen dafür,
 
 133
-00:05:19,000 --> 00:05:21,000
-Was? Kupo, nein!
+00:04:17,440 --> 00:04:19,440
+dass hochqualitativ die Sendung hier produziert wird.
 
 134
-00:05:21,000 --> 00:05:23,000
-Das können die doch nicht machen, oder?
+00:04:19,440 --> 00:04:21,440
+Also, was hochqualitativ ist,
 
 135
-00:05:23,000 --> 00:05:25,000
-Och nee, das fit mir jetzt alles zu viel.
+00:04:21,440 --> 00:04:23,440
+Kubo, das entscheiden immer noch wir.
 
 136
-00:05:25,000 --> 00:05:27,000
-Da spiel ich doch lieber ein Lied.
+00:04:23,440 --> 00:04:25,440
+Ich denke nicht. Also, es ist ja alles sehr interessant.
 
 137
-00:05:27,000 --> 00:05:31,000
-Moment mal, Sie haben ja noch nicht gezahlt.
+00:04:25,440 --> 00:04:27,440
+Aber was habe ich denn jetzt gewonnen?
 
 138
-00:05:31,000 --> 00:05:35,000
-Deshalb verhänge ich hier mit eine Musiksperre für dieses Radio.
+00:04:27,440 --> 00:04:29,440
+Da war doch was von einem Gewinn. Stimmt es, MC City?
 
 139
-00:05:35,000 --> 00:05:37,000
-Nein!
+00:04:29,440 --> 00:04:31,440
+Ich krieg doch jetzt was geschenkt.
 
 140
-00:05:37,000 --> 00:05:39,000
-In einer halben Stunde werde ich wiederkommen.
+00:04:31,440 --> 00:04:33,440
+Nicht?
 
 141
-00:05:39,160 --> 00:05:43,160
-Und bis dahin werden Sie ihre Gebühren nachgezahlt haben.
+00:04:33,440 --> 00:04:35,440
+Aber dann haben Sie doch wenigstens
 
 142
-00:05:43,160 --> 00:05:45,160
-Viel Erfolg, meine Herren.
+00:04:35,440 --> 00:04:37,440
+die Gebühren für die Liederbezahl,
 
 143
-00:05:45,160 --> 00:05:47,160
-Kupo!
+00:04:37,440 --> 00:04:39,440
+die Sie gespielt haben. Kubo, Gebühren!
 
 144
-00:05:47,160 --> 00:05:49,160
-Dieser Gamer-Mock, Hilfe! Ich will nicht erschossen werden.
+00:04:39,440 --> 00:04:41,440
+Was für Gebühren?
 
 145
-00:05:49,160 --> 00:05:51,160
-Was sollen wir denn machen?
+00:04:41,440 --> 00:04:43,440
+Nun, wenn Sie solche ausländischen Titel spielen,
 
 146
-00:05:51,160 --> 00:05:53,160
-Bitte, Hilfe! Ich will auch nichts verkaufen.
+00:04:43,440 --> 00:04:45,440
+die die Menschen da draußen gerne hören.
 
 147
-00:05:53,160 --> 00:05:55,160
-Ich hab doch kein Geld, kein Geld, nichts.
+00:04:45,440 --> 00:04:47,440
+Kubo, dann müssen Sie natürlich auch
 
 148
-00:05:55,160 --> 00:05:57,160
-Wo sind denn deine Unterlagen?
+00:04:47,440 --> 00:04:49,440
+Abgaben an uns zahlen.
 
 149
-00:05:57,160 --> 00:05:59,160
-Die Unterlagen, was bringen die mir Unterlagen?
+00:04:49,440 --> 00:04:51,440
+Ich dachte, du hast als du das Radio gegründet hast
 
 150
-00:05:59,160 --> 00:06:01,160
-Ich hab doch nichts gezahlt. Ich hab doch nie was gezahlt.
+00:04:51,440 --> 00:04:53,440
+ein Fundament gelegt, ein rechtliches Fundament.
 
 151
-00:06:01,160 --> 00:06:03,160
-Ich bin es auch selber schuld, ich weiß das.
+00:04:53,440 --> 00:04:55,440
+Und du hättest das alles abgesichert.
 
 152
-00:06:03,160 --> 00:06:05,160
-Vielleicht finden wir da ja irgendwas, was uns weiterhilft.
+00:04:55,440 --> 00:04:57,440
+Ich habe diesen Stein hingestellt, als Fundament.
 
 153
-00:06:05,160 --> 00:06:07,160
-Jetzt kann uns nur noch ein Mirakel helfen.
+00:04:57,440 --> 00:04:59,440
+Ich habe rechtlich abgesichert.
 
 154
-00:06:07,320 --> 00:06:09,320
-Jojo, was machst du denn hier?
+00:04:59,440 --> 00:05:01,440
+Das ist doch eh...
 
 155
-00:06:09,320 --> 00:06:11,320
-Wie kommst du hier rein?
+00:05:01,440 --> 00:05:03,440
+Also, man guckt mal leid, aber man gibt mal Geld aus,
 
 156
-00:06:11,320 --> 00:06:13,320
-Ja, durch die Hintertür. War ja nicht abgeschlossen.
+00:05:03,440 --> 00:05:05,440
+um sich abzusichern.
 
 157
-00:06:13,320 --> 00:06:15,320
-Wie kannst du...
+00:05:05,440 --> 00:05:07,440
+Man hat was und man hat was nicht.
 
 158
-00:06:15,320 --> 00:06:17,320
-Was? Was guckst du mich so an?
+00:05:07,440 --> 00:05:09,440
+Nun, ja, immer. Kubo.
 
 159
-00:06:17,320 --> 00:06:19,320
-Ja, ich dachte halt, das ist die Hintertür.
+00:05:09,440 --> 00:05:11,440
+Wenn Sie nicht in einer halben Stunde
 
 160
-00:06:19,320 --> 00:06:21,320
-Die ist doch...
+00:05:11,440 --> 00:05:13,440
+alle Gebühren nachgezahlt haben,
 
 161
-00:06:21,320 --> 00:06:23,320
-Da geht doch eh niemand rein. Die Hintertür.
+00:05:13,440 --> 00:05:15,440
+dann kommen Sie
 
 162
-00:06:23,320 --> 00:06:25,320
-Wer benutzt schon die Hintertür?
+00:05:15,440 --> 00:05:17,440
+vor ein Militärgerecht
 
 163
-00:06:25,320 --> 00:06:27,320
-Oh, ich hasse dich so.
+00:05:17,440 --> 00:05:19,440
+und werden im Höchstfall erschossen.
 
 164
-00:06:27,320 --> 00:06:31,320
-So, und ich habe euer Gespräch mit Herrn Meier zufällig mitgehört.
+00:05:19,440 --> 00:05:21,440
+Was? Kubo, nein!
 
 165
-00:06:31,320 --> 00:06:33,320
-Mit einem meiner kleinen Abhörgeräte.
+00:05:21,440 --> 00:05:23,440
+Das, das können Sie doch nicht machen, oder?
 
 166
-00:06:33,320 --> 00:06:35,320
-Und?
+00:05:23,440 --> 00:05:25,440
+Oh, nee, das, das fühlt mir jetzt alles so viel.
 
 167
-00:06:35,480 --> 00:06:37,480
-Mock, Meier.
+00:05:25,440 --> 00:05:27,440
+Das spielt doch lieber ein, ein Lied.
 
 168
-00:06:37,480 --> 00:06:39,480
-Ja, ich kann euch vielleicht etwas weiterhelfen.
+00:05:27,440 --> 00:05:29,440
+Moment mal, Sie haben ja
 
 169
-00:06:39,480 --> 00:06:41,480
-Weiterhelfen?
+00:05:29,440 --> 00:05:31,440
+noch nicht gezahlt.
 
 170
-00:06:41,480 --> 00:06:43,480
-Jojo, hast du vielleicht einen Mastophanten,
+00:05:31,440 --> 00:05:33,440
+Deshalb verhänge ich hier mit
 
 171
-00:06:43,480 --> 00:06:45,480
-mit dem wir den bösen Gehmer Mockmann
+00:05:33,440 --> 00:05:35,440
+eine Musiksperre für dieses Radio.
 
 172
-00:06:45,480 --> 00:06:47,480
-da erschlagen können?
+00:05:35,440 --> 00:05:37,440
+Komm mal heulen!
 
 173
-00:06:47,480 --> 00:06:49,480
-Der hieß doch nicht Meier.
+00:05:37,440 --> 00:05:39,440
+In einer halben Stunde werde ich wiederkommen
 
 174
-00:06:49,480 --> 00:06:51,480
-Mockmeier, natürlich hieß der Meier Mockmeier.
+00:05:39,440 --> 00:05:41,440
+und bis dahin werden Sie Ihre Gebühren
 
 175
-00:06:51,480 --> 00:06:53,480
-Hat er doch gesagt. Mein Name ist Meier Mockmeier.
+00:05:41,440 --> 00:05:43,440
+nachgezahlt haben.
 
 176
-00:06:53,480 --> 00:06:55,480
-Nein, die Zeiten mit den Mastophanten,
+00:05:43,440 --> 00:05:45,440
+Viel Erfolg, meine Herren!
 
 177
-00:06:55,480 --> 00:06:57,480
-wo ich da experimentiert hab
+00:05:45,440 --> 00:05:47,440
+Kubo!
 
 178
-00:06:57,480 --> 00:06:59,480
-als Subjekt und Objekte, das ist vorbei.
+00:05:47,440 --> 00:05:49,440
+Dieser Gamermock, Hilfe! Ich will nicht erschossen werden.
 
 179
-00:06:59,480 --> 00:07:01,480
-Was wäre denn, wenn ihr niemals
+00:05:49,440 --> 00:05:51,440
+Was sollen wir denn machen? Bitte, Hilfe!
 
 180
-00:07:01,480 --> 00:07:03,480
-diese ausländischen Lieder gespielt hättet,
+00:05:51,440 --> 00:05:53,440
+Ich will auch nichts verkaufen. Ich habe doch kein Geld, kein Geld, nichts!
 
 181
-00:07:03,640 --> 00:07:05,640
-die die Menschen da draußen gerne hören?
+00:05:53,440 --> 00:05:55,440
+Wo sind denn deine Unterlagen?
 
 182
-00:07:05,640 --> 00:07:07,640
-Ja, was, wenn, wenn, wenn, wenn.
+00:05:55,440 --> 00:05:57,440
+Die Unterlagen? Was bringen die Unterlagen?
 
 183
-00:07:07,640 --> 00:07:09,640
-Man kann das ja immer sagen.
+00:05:57,440 --> 00:05:59,440
+Ich habe doch nichts gezahlt. Ich habe doch nie was gezahlt.
 
 184
-00:07:09,640 --> 00:07:11,640
-Man kann ja die Vergangenheit nicht ändern.
+00:05:59,440 --> 00:06:01,440
+Ich bin doch selber schuld, ich weiß das.
 
 185
-00:07:11,640 --> 00:07:13,640
-Also was soll's?
+00:06:01,440 --> 00:06:03,440
+Vielleicht finden wir da ja irgendwas, was uns weiterhält.
 
 186
-00:07:13,640 --> 00:07:15,640
-Was wäre, wenn man es doch könnte?
+00:06:03,440 --> 00:06:05,440
+Jetzt können uns nur noch ein Miracle helfen.
 
 187
-00:07:15,640 --> 00:07:17,640
-Ich habe eine Zeitmaschine gebaut,
+00:06:05,440 --> 00:06:07,440
+Ja, meine Freunde!
 
 188
-00:07:17,640 --> 00:07:19,640
-mit der ihr in die Vergangenheit reisen könnt,
+00:06:07,440 --> 00:06:09,440
+Jojo, was machst du denn hier?
 
 189
-00:07:19,640 --> 00:07:21,640
-um eure Radios zu ändern.
+00:06:09,440 --> 00:06:11,440
+Wie kommst du hier rein?
 
 190
-00:07:21,640 --> 00:07:23,640
-Das kann niemals funktionieren.
+00:06:11,440 --> 00:06:13,440
+Ja, durch die Hintertür.
 
 191
-00:07:23,640 --> 00:07:25,640
-Das ist physikalisch absolut unmöglich.
+00:06:13,440 --> 00:06:15,440
+Ich war ja nicht abgeschlossen.
 
 192
-00:07:25,640 --> 00:07:27,640
-Zeitreisen sind nicht...
+00:06:15,440 --> 00:06:17,440
+Was? Was guckst du mich so an?
 
 193
-00:07:27,640 --> 00:07:29,640
-Das ist die Wissenschaft!
+00:06:17,440 --> 00:06:19,440
+Ja, ich dachte halt, das ist die Hintertür.
 
 194
-00:07:29,640 --> 00:07:31,640
-Wenn das, was er sagt, wahr ist,
+00:06:19,440 --> 00:06:21,440
+Da geht doch eh niemand rein.
 
 195
-00:07:31,800 --> 00:07:33,800
-dann könnten wir...
+00:06:21,440 --> 00:06:23,440
+Die Hintertür.
 
 196
-00:07:33,800 --> 00:07:35,800
-Ich denke an die Möglichkeiten.
+00:06:23,440 --> 00:06:25,440
+Wer wird uns schon die Hintertür?
 
 197
-00:07:35,800 --> 00:07:37,800
-Wir könnten uns selber im Schlaf
+00:06:25,440 --> 00:06:27,440
+Ich hasse dich so.
 
 198
-00:07:37,800 --> 00:07:39,800
-lustige Hüte aufsetzen
+00:06:27,440 --> 00:06:29,440
+Und ich habe euer Gespräch mit Herrn Meier
 
 199
-00:07:39,800 --> 00:07:41,800
-und Pappnasen aufstecken.
+00:06:29,440 --> 00:06:31,440
+zufällig mitgehört.
 
 200
-00:07:41,800 --> 00:07:43,800
-Und dann könnten wir Fotos von uns machen.
+00:06:31,440 --> 00:06:33,440
+Mit allen meiner kleinen Abhörgeräte.
 
 201
-00:07:43,800 --> 00:07:45,800
-Wie wir diese Hüte aufhaben.
+00:06:33,440 --> 00:06:35,440
+Und?
 
 202
-00:07:45,800 --> 00:07:47,800
-Wo ist denn die Zeitmaschine?
+00:06:35,440 --> 00:06:37,440
+Mock Meier.
 
 203
-00:07:47,800 --> 00:07:49,800
-Ich habe die Zeitmaschine
+00:06:37,440 --> 00:06:39,440
+Ja, ich kann euch vielleicht etwas weiterhelfen.
 
 204
-00:07:49,800 --> 00:07:51,800
-in diesen Chocobo-Krechtswecker eingebaut,
+00:06:39,440 --> 00:06:41,440
+Weiterhelfen?
 
 205
-00:07:51,800 --> 00:07:53,800
-damit ihr damit
+00:06:41,440 --> 00:06:43,440
+Jojo, hast du vielleicht einen Mastofanten,
 
 206
-00:07:53,800 --> 00:07:55,800
-durch die Vergangenheit reisen könnt.
+00:06:43,440 --> 00:06:45,440
+mit dem wir den bösen Geber Mockman
 
 207
-00:07:55,800 --> 00:07:57,800
-In einen Wecker?
+00:06:45,440 --> 00:06:47,440
+da schlagen können?
 
 208
-00:07:57,800 --> 00:07:59,800
-Das klang logisch für mich.
+00:06:47,440 --> 00:06:49,440
+Er hieß doch nicht Meier.
 
 209
-00:07:59,960 --> 00:08:01,960
-Ich verstehe.
+00:06:49,440 --> 00:06:51,440
+Mock Meier, natürlich hieß der Meier Mock Meier.
 
 210
-00:08:01,960 --> 00:08:03,960
-Ja, aber das ist ja auch völlig egal.
+00:06:51,440 --> 00:06:53,440
+Hat doch gesagt, ich mein Name ist Meier Mock Meier.
 
 211
-00:08:03,960 --> 00:08:05,960
-Ich muss euch noch eine wichtige Sache sagen.
+00:06:53,440 --> 00:06:55,440
+Nein, die Zeiten mit den Mastofanten,
 
 212
-00:08:05,960 --> 00:08:07,960
-Während ihr in der Vergangenheit unterwegs seid,
+00:06:55,440 --> 00:06:57,440
+wo ich da experimentiert habe,
 
 213
-00:08:07,960 --> 00:08:09,960
-läuft die Zeit hier weiter in der Gegenwart.
+00:06:57,440 --> 00:06:59,440
+als Subjekt und Objekte,
 
 214
-00:08:09,960 --> 00:08:11,960
-Das heißt, ihr müsst schnell wieder hier sein.
+00:06:59,440 --> 00:07:01,440
+das ist vorbei.
 
 215
-00:08:11,960 --> 00:08:13,960
-Oh, oh, oh, schnell, ja gut, okay.
+00:07:01,440 --> 00:07:03,440
+Was wäre denn, wenn ihr niemals diese ausländischen Lieder gespielt hättet,
 
 216
-00:08:13,960 --> 00:08:15,960
-Dann gib mir einen schnellen Wecker.
+00:07:03,440 --> 00:07:05,440
+die die Menschen da draußen gerne hören?
 
 217
-00:08:15,960 --> 00:08:17,960
-Ich muss euch noch über die Gefahren des Zeitreisen...
+00:07:05,440 --> 00:07:07,440
+Ja, was?
 
 218
-00:08:17,960 --> 00:08:19,960
-Ja, ja, Gefahren, Zeitreisen...
+00:07:07,440 --> 00:07:09,440
+Wenn, wenn, wenn, man kann das ja immer sagen.
 
 219
-00:08:19,960 --> 00:08:21,960
-Es sind wichtige Sachen, die ich euch sagen muss.
+00:07:09,440 --> 00:07:11,440
+Aber man kann ja die Vergangenheit nicht ändern.
 
 220
-00:08:21,960 --> 00:08:23,960
-Also, welche? Das?
+00:07:11,440 --> 00:07:13,440
+Also was soll's?
 
 221
-00:08:23,960 --> 00:08:25,960
-Ihr dürft niemand...
+00:07:13,440 --> 00:07:15,440
+Was wäre, wenn man es doch könnte?
 
 222
-00:08:25,960 --> 00:08:27,960
-Niemals dürft ihr...
+00:07:15,440 --> 00:07:17,440
+Ich habe eine Zeitmaschine gebaut,
 
 223
-00:08:28,120 --> 00:08:30,120
-Ja, aber eine ganz wichtige Sache muss ich euch noch sagen.
+00:07:17,440 --> 00:07:19,440
+mit der ihr in die Vergangenheit reisen könnt,
 
 224
-00:08:30,120 --> 00:08:32,120
-Ich würde einfach den Knopf hier...
+00:07:19,440 --> 00:07:21,440
+um eure Radios zu ändern.
 
 225
-00:08:32,120 --> 00:08:34,120
-Nein!
+00:07:21,440 --> 00:07:23,440
+Das kann niemals funktionieren.
 
 226
-00:08:50,120 --> 00:08:52,120
-Hey, diesen Song hört man sich immer mal wieder gerne an.
+00:07:23,440 --> 00:07:25,440
+Das ist physikalisch absolut unmöglich.
 
 227
-00:08:52,120 --> 00:08:54,120
-Stimmt's?
+00:07:25,440 --> 00:07:27,440
+Das ist doch absolut verwahnt.
 
 228
-00:08:54,120 --> 00:08:56,120
-MC Sid?
+00:07:27,440 --> 00:07:29,440
+Das ist die Wissenschaft.
 
 229
-00:08:56,280 --> 00:08:58,280
-Ja, DJ Dan.
+00:07:29,440 --> 00:07:31,440
+Wenn das, was er sagt, wahr ist.
 
 230
-00:09:02,280 --> 00:09:04,280
-Hilfe, MC Sid, Hilfe!
+00:07:31,440 --> 00:07:33,440
+Ja, dann könnten wir.
 
 231
-00:09:04,280 --> 00:09:06,280
-Steh auf!
+00:07:33,440 --> 00:07:35,440
+Dann könnten wir.
 
 232
-00:09:06,280 --> 00:09:08,280
-Von mir runter!
+00:07:35,440 --> 00:07:37,440
+Ich denke an die Möglichkeiten.
 
 233
-00:09:10,280 --> 00:09:12,280
-Mein Name ist Char.
+00:07:37,440 --> 00:07:39,440
+Wir könnten uns selber im Schlaf lustige Hüter aufsetzen
 
 234
-00:09:12,280 --> 00:09:14,280
-Hörst du, hörst du, hörst du, das sind wir!
+00:07:39,440 --> 00:07:41,440
+und Pappnasen aufstecken.
 
 235
-00:09:14,280 --> 00:09:16,280
-Wie sehe ich denn aus?
+00:07:41,440 --> 00:07:43,440
+Ja, cool.
 
 236
-00:09:16,280 --> 00:09:18,280
-Ja, cool, jetzt kann ich mit mir selber
+00:07:43,440 --> 00:07:45,440
+Und dann könnten wir Fotos von uns machen.
 
 237
-00:09:18,280 --> 00:09:20,280
-Esswettbewerbe veranstalten und gucken,
+00:07:45,440 --> 00:07:47,440
+Wie wir diese Hüter aufhaben.
 
 238
-00:09:20,280 --> 00:09:22,280
-wer von mir selbst besser ist.
+00:07:47,440 --> 00:07:49,440
+Ja, ja, wo ist denn die Zeitmaschine?
 
 239
-00:09:22,280 --> 00:09:24,280
-Das klingt erstens ziemlich widerlich
+00:07:49,440 --> 00:07:51,440
+Ich habe die Zeitmaschine in diesen
 
 240
-00:09:24,440 --> 00:09:26,440
-und jetzt weißt du überhaupt nicht, was passiert, wenn du deinem Ich
+00:07:51,440 --> 00:07:53,440
+Chocobock-Rechtswecker eingebaut,
 
 241
-00:09:26,440 --> 00:09:28,440
-aus der Vergangenheit begegnest.
+00:07:53,440 --> 00:07:55,440
+damit ihr damit durch die Vergangenheit reisen könnt.
 
 242
-00:09:28,440 --> 00:09:30,440
-Das hat Jojo bestimmt gesagt.
+00:07:55,440 --> 00:07:57,440
+In ein Wecker?
 
 243
-00:09:30,440 --> 00:09:32,440
-Wenn du mir diesen kleinen Spaß mit mir selbst nicht gönnen willst...
+00:07:57,440 --> 00:07:59,440
+Das klang logisch für mich.
 
 244
-00:09:32,440 --> 00:09:34,440
-...könntest du das Universum zerstören?
+00:07:59,440 --> 00:08:01,440
+Zeit, Wecker, so.
 
 245
-00:09:34,440 --> 00:09:36,440
-Ja, also...
+00:08:01,440 --> 00:08:03,440
+Ich verstehe.
 
 246
-00:09:36,440 --> 00:09:38,440
-Oh nein, gleich ist es soweit.
+00:08:03,440 --> 00:08:05,440
+Ja, aber das ist ja auch völlig egal.
 
 247
-00:09:38,440 --> 00:09:40,440
-Gleich spielen wir ein ausländisches Lied, das die Menschen da draußen gerne hören.
+00:08:05,440 --> 00:08:07,440
+Ich muss euch noch eine wichtige Sache sagen.
 
 248
-00:09:40,440 --> 00:09:42,440
-Wir müssen das schnell irgendwie ändern.
+00:08:07,440 --> 00:08:09,440
+Während ihr in der Vergangenheit unterwegs seid,
 
 249
-00:09:42,440 --> 00:09:44,440
-Ich weiß nicht, vielleicht kann ich hier draufhauen und dann...
+00:08:09,440 --> 00:08:11,440
+läuft die Zeit hier weiter in der Gegenwart.
 
 250
-00:09:44,440 --> 00:09:46,440
-Wir könnten uns selber überrumpeln
+00:08:11,440 --> 00:08:13,440
+Das heißt, ihr müsst schnell wieder hier sein.
 
 251
-00:09:46,440 --> 00:09:48,440
-und bewusstlos schlagen.
+00:08:13,440 --> 00:08:15,440
+Oh, oh, oh, oh.
 
 252
-00:09:48,440 --> 00:09:50,440
-Nein, aber das zeigt Kontinuum.
+00:08:15,440 --> 00:08:17,440
+Ja, gut, okay.
 
 253
-00:09:50,440 --> 00:09:52,440
-Wir könnten uns in die Technik einklinken
+00:08:17,440 --> 00:08:19,440
+Dann gibt mir eine schnellen Wecker.
 
 254
-00:09:52,600 --> 00:09:54,600
-und einfach was überschreiben.
+00:08:19,440 --> 00:08:21,440
+Herr damit.
 
 255
-00:09:54,600 --> 00:09:56,600
-Und wie denn?
+00:08:21,440 --> 00:08:23,440
+Ich muss euch noch über die Fragen des Zeitreisen.
 
 256
-00:09:56,600 --> 00:09:58,600
-Zum Beispiel mit der Musikbox, die ich vorsorglicherweise einfach mal mitgenommen habe.
+00:08:23,440 --> 00:08:25,440
+Es gibt wichtige Sachen, die ich euch sagen muss.
 
 257
-00:09:58,600 --> 00:10:00,600
-Du hast die Musikbox vorsorglicherweise mitgenommen?
+00:08:25,440 --> 00:08:27,440
+Ihr dürft niemals...
 
 258
-00:10:00,600 --> 00:10:02,600
-Ja, natürlich.
+00:08:27,440 --> 00:08:29,440
+Stürzt ihr?
 
 259
-00:10:02,600 --> 00:10:04,600
-Okay, warte mal, jetzt, gleich.
+00:08:29,440 --> 00:08:31,440
+Ja, aber eine ganz wichtige Sache muss ich euch noch sagen.
 
 260
-00:10:04,600 --> 00:10:06,600
-Hast du die Musikbox bereit?
+00:08:31,440 --> 00:08:33,440
+Ich höre einfach diesen Knopf hier.
 
 261
-00:10:06,600 --> 00:10:08,600
-Sie ist stand-by, ich muss nur noch das Kabel im richtigen Moment reinstellen.
+00:08:33,440 --> 00:08:35,440
+Nein!
 
 262
-00:10:08,600 --> 00:10:10,600
-Okay, warte.
+00:08:49,440 --> 00:08:51,440
+Hey, diesen Song hört man sich immer mal wieder gerne an.
 
 263
-00:10:10,600 --> 00:10:12,600
-Warte. Jetzt!
+00:08:51,440 --> 00:08:53,440
+Stimmt's?
 
 264
-00:10:12,600 --> 00:10:14,600
-Zum gleichen Zeitpunkt
+00:08:53,440 --> 00:08:55,440
+MC SID
 
 265
-00:10:14,600 --> 00:10:16,600
-im FFM Studio der Gegenwart.
+00:08:55,440 --> 00:08:57,440
+Ja, DJ, dann...
 
 266
-00:10:16,600 --> 00:10:18,600
-Ah, diese Radiostation
+00:08:57,440 --> 00:08:59,440
+Ja, DJ, dann...
 
 267
-00:10:18,600 --> 00:10:20,600
-ist wirklich eine interessante Sache.
+00:08:59,440 --> 00:09:01,440
+Oh, oh, oh.
 
 268
-00:10:20,760 --> 00:10:22,760
-Ich muss schon sagen,
+00:09:01,440 --> 00:09:03,440
+Hilfe.
 
 269
-00:10:22,760 --> 00:10:24,760
-dieses ganze Gebaste hier,
+00:09:03,440 --> 00:09:05,440
+MC SID, Hilfe.
 
 270
-00:10:24,760 --> 00:10:26,760
-das ist schon etwas seltsam, aber ich denke,
+00:09:05,440 --> 00:09:07,440
+Hörst du? Hörst du?
 
 271
-00:10:26,760 --> 00:10:28,760
-ich kann das noch etwas verbessern.
+00:09:07,440 --> 00:09:09,440
+Hörst du? Hörst du?
 
 272
-00:10:30,760 --> 00:10:32,760
-Wenn ich hier noch etwas anschließe
+00:09:09,440 --> 00:09:11,440
+Da sind wir.
 
 273
-00:10:32,760 --> 00:10:34,760
-und dort...
+00:09:11,440 --> 00:09:13,440
+Wie sieht es denn aus?
 
 274
-00:10:34,760 --> 00:10:36,760
-Das ist eine interessante Idee.
+00:09:13,440 --> 00:09:15,440
+Ja, cool.
 
 275
-00:10:36,760 --> 00:10:38,760
-Diese Musik,
+00:09:15,440 --> 00:09:17,440
+Jetzt kann ich mit mir selber Esswertbewerbe veranstalten
 
 276
-00:10:38,760 --> 00:10:40,760
-sie könnte die Menschen beherrschen.
+00:09:17,440 --> 00:09:19,440
+und gucken, wer von mir selbst besser ist.
 
 277
-00:10:40,760 --> 00:10:42,760
-Ich könnte der Herrscher der Welt sein.
+00:09:19,440 --> 00:09:21,440
+Es klingt erst ziemlich widerlich
 
 278
-00:10:42,760 --> 00:10:44,760
-Die ganze Welt
+00:09:21,440 --> 00:09:23,440
+und zweitens, weißt du überhaupt nicht,
 
 279
-00:10:44,760 --> 00:10:46,760
-wäre mein Subjekt.
+00:09:23,440 --> 00:09:25,440
+was passiert, wenn du dein ich aus der Vergangenheit begegnest.
 
 280
-00:10:46,760 --> 00:10:48,760
-Hahaha!
+00:09:25,440 --> 00:09:27,440
+Das hat Jojo bestimmt gesagt.
 
 281
-00:10:50,760 --> 00:10:52,760
-Das war's für heute.
+00:09:27,440 --> 00:09:29,440
+Finde mir diesen kleinen Spaß,
 
 282
-00:10:52,760 --> 00:10:54,760
-Bis zum nächsten Mal.
+00:09:29,440 --> 00:09:31,440
+mit mir selbst nicht gönnen willst.
 
 283
-00:11:20,600 --> 00:11:22,760
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:31,440 --> 00:09:33,440
+Könntest du das Universum zerstören?
 
 284
-00:11:50,600 --> 00:11:52,760
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:33,440 --> 00:09:35,440
+Ja.
 
 285
-00:12:20,600 --> 00:12:22,760
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:35,440 --> 00:09:37,440
+Oh nein, gleich ist es so weit.
 
 286
-00:12:50,600 --> 00:12:52,760
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:37,440 --> 00:09:39,440
+Gleich spielen wir ein ausländisches Lied,
 
 287
-00:13:20,600 --> 00:13:22,760
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:39,440 --> 00:09:41,440
+was die Menschen da draußen gerne hören.
 
 288
-00:13:50,600 --> 00:13:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:41,440 --> 00:09:43,440
+Wir müssen das schnell irgendwie ändern.
 
 289
-00:14:20,600 --> 00:14:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:43,440 --> 00:09:45,440
+Ich weiß nicht, vielleicht kann ich hier drauf hauen.
 
 290
-00:14:50,600 --> 00:14:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:45,440 --> 00:09:47,440
+Wir könnten uns selber überrumpeln
 
 291
-00:15:20,600 --> 00:15:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:47,440 --> 00:09:49,440
+und bewusstlos schlagen.
 
 292
-00:15:50,600 --> 00:15:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:49,440 --> 00:09:51,440
+Nein, aber das ist Zeitkonkino um.
 
 293
-00:16:20,600 --> 00:16:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:51,440 --> 00:09:53,440
+Um die Technik einklinken
 
 294
-00:16:50,600 --> 00:16:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:53,440 --> 00:09:55,440
+und einfach was überschreiben.
 
 295
-00:17:20,600 --> 00:17:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:55,440 --> 00:09:57,440
+Wie denn?
 
 296
-00:17:50,600 --> 00:17:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:57,440 --> 00:09:59,440
+Zum Beispiel mit der Musikbox, die ich vorsorglicherweise
 
 297
-00:18:20,600 --> 00:18:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:09:59,440 --> 00:10:01,440
+beim mitgenommen habe.
 
 298
-00:18:50,600 --> 00:18:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:01,440 --> 00:10:03,440
+Du weißt, die Musikbox vorsorglicherweise mitgenommen?
 
 299
-00:19:20,600 --> 00:19:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:03,440 --> 00:10:05,440
+Natürlich.
 
 300
-00:19:50,600 --> 00:19:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:05,440 --> 00:10:07,440
+Hast du die Musikbox bereit?
 
 301
-00:20:20,600 --> 00:20:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:07,440 --> 00:10:09,440
+Sie ist standbar, ich muss nur noch das Kabel
 
 302
-00:20:50,600 --> 00:20:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:09,440 --> 00:10:11,440
+im richtigen Moment reinschauen.
 
 303
-00:21:20,600 --> 00:21:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:11,440 --> 00:10:13,440
+Okay, warte, unser nächstes Lied ist...
 
 304
-00:21:50,600 --> 00:21:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:13,440 --> 00:10:15,440
+Warte, jetzt!
 
 305
-00:22:20,600 --> 00:22:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:15,440 --> 00:10:17,440
+Zum gleichen Zeitpunkt
 
 306
-00:22:50,600 --> 00:22:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:17,440 --> 00:10:19,440
+im FFM Studio der Gegenwart.
 
 307
-00:23:20,600 --> 00:23:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:19,440 --> 00:10:21,440
+Das ist wirklich eine interessante Sache.
 
 308
-00:23:50,600 --> 00:23:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:21,440 --> 00:10:23,440
+Ich muss schon sagen,
 
 309
-00:24:20,600 --> 00:24:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:23,440 --> 00:10:25,440
+dieses ganze Gebaste hier,
 
 310
-00:24:50,600 --> 00:24:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:25,440 --> 00:10:27,440
+das ist schon etwas seltsam,
 
 311
-00:25:20,600 --> 00:25:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:27,440 --> 00:10:29,440
+aber ich denke, ich kann das noch etwas verbessern.
 
 312
-00:25:50,600 --> 00:25:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:31,440 --> 00:10:33,440
+Wenn ich hier noch etwas anschließe
 
 313
-00:26:20,600 --> 00:26:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:33,440 --> 00:10:35,440
+und dort,
 
 314
-00:26:50,600 --> 00:26:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:35,440 --> 00:10:37,440
+das ist eine interessante Idee.
 
 315
-00:27:20,600 --> 00:27:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:37,440 --> 00:10:39,440
+Diese Musik,
 
 316
-00:27:50,600 --> 00:27:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:39,440 --> 00:10:41,440
+sie könnte die Menschen beherrschen.
 
 317
-00:28:20,600 --> 00:28:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:41,440 --> 00:10:43,440
+Ich könnte der Herrscher
 
 318
-00:28:50,600 --> 00:28:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:43,440 --> 00:10:45,440
+der Welt sein.
 
 319
-00:29:20,600 --> 00:29:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:45,440 --> 00:10:47,440
+Die ganze Welt wäre mein Subjekt.
 
 320
-00:29:50,600 --> 00:29:52,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:10:47,440 --> 00:10:49,440
+Hahahaha!
 
 321
-00:30:20,600 --> 00:30:22,600
-Untertitel im Auftrag des ZDF für funk, 2017
+00:11:17,440 --> 00:11:19,440
+Hahahaha!
+
+322
+00:11:47,440 --> 00:11:49,440
+Hahahaha!
+
+323
+00:12:17,440 --> 00:12:19,440
+Hahahaha!
+
+324
+00:12:47,440 --> 00:12:49,440
+Hahahaha!
+
+325
+00:13:17,440 --> 00:13:19,440
+Hahahaha!
+
+326
+00:13:47,440 --> 00:13:49,440
+Hahahaha!
+
+327
+00:14:11,440 --> 00:14:13,440
+Zum gleichen Zeitpunkt
+
+328
+00:14:13,440 --> 00:14:15,440
+im FFM Studio der Vergangenheit.
+
+329
+00:14:15,440 --> 00:14:17,440
+Aber nun habe ich etwas
+
+330
+00:14:17,440 --> 00:14:19,440
+ganz Besonderes
+
+331
+00:14:19,440 --> 00:14:21,440
+vorbereitet.
+
+332
+00:14:21,440 --> 00:14:23,440
+Nämlich eine
+
+333
+00:14:23,440 --> 00:14:25,440
+Dollelied.
+
+334
+00:14:25,440 --> 00:14:27,440
+Und zwar werden dabei
+
+335
+00:14:27,440 --> 00:14:29,440
+alle Gäste
+
+336
+00:14:29,440 --> 00:14:31,440
+aus dem FFM Radio
+
+337
+00:14:31,440 --> 00:14:33,440
+und unsere Moderatorin
+
+338
+00:14:33,440 --> 00:14:35,440
+eine
+
+339
+00:14:35,440 --> 00:14:37,440
+Winzigkeit singen.
+
+340
+00:14:37,440 --> 00:14:39,440
+Oh, ist das schön.
+
+341
+00:14:39,440 --> 00:14:41,440
+Wie ist das nicht schön, FZ?
+
+342
+00:14:41,440 --> 00:14:43,440
+Wir alle werden singen zusammen
+
+343
+00:14:43,440 --> 00:14:45,440
+mit der liebsten, aller liebsten Gäste.
+
+344
+00:14:51,440 --> 00:14:53,440
+Wie lange müssen wir denn jetzt noch bleiben?
+
+345
+00:14:53,440 --> 00:14:55,440
+Das ist doch dieser Moment,
+
+346
+00:14:55,440 --> 00:14:57,440
+wir müssen mit all unseren Gästen
+
+347
+00:14:57,440 --> 00:14:59,440
+zusammen singen.
+
+348
+00:14:59,440 --> 00:15:01,440
+Ich weiß noch, wie toll wir gesungen haben.
+
+349
+00:15:01,440 --> 00:15:03,440
+Wir hätten eine große Medaille
+
+350
+00:15:03,440 --> 00:15:05,440
+bekommen sollen
+
+351
+00:15:05,440 --> 00:15:07,440
+für unsere genialen
+
+352
+00:15:07,440 --> 00:15:09,440
+Gesangskünste.
+
+353
+00:15:09,440 --> 00:15:11,440
+Du singst da hinten schon.
+
+354
+00:15:11,440 --> 00:15:13,440
+Du musst nicht hier auch noch singen.
+
+355
+00:15:13,440 --> 00:15:15,440
+Das ist doch ein schöner FFM Moment.
+
+356
+00:15:15,440 --> 00:15:17,440
+Ein Erlebnis.
+
+357
+00:15:17,440 --> 00:15:19,440
+Du kannst es nicht still und leise genießen.
+
+358
+00:15:19,440 --> 00:15:21,440
+Nein, ich kann das nur genießen,
+
+359
+00:15:21,440 --> 00:15:23,440
+wenn ich selber ein Teil davon bin.
+
+360
+00:15:23,440 --> 00:15:25,440
+Aber wir haben es doch aufgenommen.
+
+361
+00:15:25,440 --> 00:15:27,440
+Du kannst es dir doch immer anhören.
+
+362
+00:15:27,440 --> 00:15:29,440
+Aber das ist live, ich sehe es jetzt normal.
+
+363
+00:15:29,440 --> 00:15:31,440
+Eine andere Perspektive.
+
+364
+00:15:31,440 --> 00:15:33,440
+Das tut so weh.
+
+365
+00:15:33,440 --> 00:15:35,440
+Verhakt!
+
+366
+00:15:35,440 --> 00:15:37,440
+Er klingelt.
+
+367
+00:15:37,440 --> 00:15:39,440
+Er wagt.
+
+368
+00:15:39,440 --> 00:15:41,440
+Wir müssen wieder zurück.
+
+369
+00:15:41,440 --> 00:15:43,440
+Lass uns doch doch das Lied zu Ende.
+
+370
+00:15:43,440 --> 00:15:45,440
+Wie bedient man denn das Ding?
+
+371
+00:15:45,440 --> 00:15:47,440
+Das Lied ist doch gleich zu Ende.
+
+372
+00:15:47,440 --> 00:15:49,440
+Wo musst du denn draufdrücken?
+
+373
+00:15:49,440 --> 00:15:51,440
+Ich habe kein Bock mehr zu warten.
+
+374
+00:15:51,440 --> 00:15:53,440
+Nein, wir müssen...
+
+375
+00:15:53,440 --> 00:15:55,440
+Jojo hat doch gesagt...
+
+376
+00:15:55,440 --> 00:15:57,440
+Wir haben nicht so viel Zeit.
+
+377
+00:15:57,440 --> 00:15:59,440
+Natürlich.
+
+378
+00:15:59,440 --> 00:16:01,440
+Ich drücke jetzt.
+
+379
+00:16:01,440 --> 00:16:03,440
+Du musst da oben leihen.
+
+380
+00:16:03,440 --> 00:16:05,440
+Doch!
+
+381
+00:16:09,440 --> 00:16:11,440
+Au!
+
+382
+00:16:11,440 --> 00:16:13,440
+Nein!
+
+383
+00:16:13,440 --> 00:16:15,440
+Wir sind in der Uhrzeit gelandet.
+
+384
+00:16:15,440 --> 00:16:17,440
+Oh mein Gott, ein Uhr-Chocobo.
+
+385
+00:16:17,440 --> 00:16:19,440
+Oh mein Gott, drück doch mal drauf.
+
+386
+00:16:19,440 --> 00:16:21,440
+Wir sind in der falschen Zeit.
+
+387
+00:16:21,440 --> 00:16:23,440
+Er will uns eine Lebensgeschichte erzählen.
+
+388
+00:16:23,440 --> 00:16:25,440
+Nein!
+
+389
+00:16:25,440 --> 00:16:27,440
+Verhakt!
+
+390
+00:16:27,440 --> 00:16:29,440
+Oh Gott!
+
+391
+00:16:37,440 --> 00:16:39,440
+Das ist staubig.
+
+392
+00:16:43,440 --> 00:16:45,440
+Wo sind wir denn jetzt gelandet?
+
+393
+00:16:45,440 --> 00:16:47,440
+Sieht seltsam vertraut aus.
+
+394
+00:16:47,440 --> 00:16:49,440
+Du...
+
+395
+00:16:49,440 --> 00:16:51,440
+Ich glaube, wir sind zurück.
+
+396
+00:16:51,440 --> 00:16:53,440
+Zurück aus der Vergegenwart.
+
+397
+00:16:53,440 --> 00:16:55,440
+Oh Gott, ich glaube...
+
+398
+00:16:55,440 --> 00:16:57,440
+Ich habe die Musikbox liegen lassen.
+
+399
+00:16:57,440 --> 00:16:59,440
+Im FMV Radio 10.
+
+400
+00:16:59,440 --> 00:17:01,440
+Ich habe die Musikbox liegen lassen.
+
+401
+00:17:01,440 --> 00:17:03,440
+Wir verloren.
+
+402
+00:17:03,440 --> 00:17:05,440
+Macht doch nichts, wir sind doch jetzt wieder in unserer Zeit.
+
+403
+00:17:05,440 --> 00:17:07,440
+Ja, sieht so aus, gell? Das ist unser Studio.
+
+404
+00:17:07,440 --> 00:17:09,440
+Ach, mein Mikro.
+
+405
+00:17:09,440 --> 00:17:11,440
+Mein geliebtes verstaubtes Mikro.
+
+406
+00:17:11,440 --> 00:17:13,440
+Aber es ist mein Mikro.
+
+407
+00:17:13,440 --> 00:17:15,440
+Ein bisschen verstaubt, aber es ist immer noch mein Mikro.
+
+408
+00:17:15,440 --> 00:17:17,440
+Das war immer noch dieser widerliche Schokoladenfleck.
+
+409
+00:17:17,440 --> 00:17:19,440
+Der Schokoladenfleck? Ja, da hatte ich Hunger an dem Tag.
+
+410
+00:17:19,440 --> 00:17:21,440
+Da habe ich so viel Schokolade gegessen.
+
+411
+00:17:21,440 --> 00:17:23,440
+Mir ist immer noch schlecht.
+
+412
+00:17:23,440 --> 00:17:25,440
+Das riesige 3D-Hologramm von Jojo.
+
+413
+00:17:25,440 --> 00:17:27,440
+Ja.
+
+414
+00:17:27,440 --> 00:17:29,440
+Das riesige 3D-Hologramm von Jojo?
+
+415
+00:17:29,440 --> 00:17:31,440
+Das objektgemüssen-Geräuschen.
+
+416
+00:17:31,440 --> 00:17:33,440
+Ja!
+
+417
+00:17:33,440 --> 00:17:35,440
+Oh Gott, ich glaube...
+
+418
+00:17:35,440 --> 00:17:37,440
+Wir sind vielleicht in der Zukunft genannt.
+
+419
+00:17:37,440 --> 00:17:39,440
+Der Chocobock-Rechtswecker hat uns in die Zukunft geschickt.
+
+420
+00:17:39,440 --> 00:17:41,440
+Und jetzt ist Jojo der Herrscher in der Welt.
+
+421
+00:17:41,440 --> 00:17:43,440
+Und er ist alt.
+
+422
+00:17:43,440 --> 00:17:45,440
+Ein alter Mann.
+
+423
+00:17:45,440 --> 00:17:47,440
+Warum sollte Jojo der Herrscher der Welt?
+
+424
+00:17:47,440 --> 00:17:49,440
+Ein alter Mann ist der Herrscher der Welt.
+
+425
+00:17:49,440 --> 00:17:51,440
+Warum sollte Jojo der Herrscher der Welt sein?
+
+426
+00:17:51,440 --> 00:17:53,440
+Ich weiß es nicht.
+
+427
+00:17:53,440 --> 00:17:55,440
+Der ist nur verrückt und wahnsinnig.
+
+428
+00:17:55,440 --> 00:17:57,440
+Egal, drückt nochmal den Chocobock-Rechtswecker.
+
+429
+00:17:57,440 --> 00:17:59,440
+Wir müssen wieder zurück in unsere Gegenwart.
+
+430
+00:17:59,440 --> 00:18:01,440
+Du sagst das. Auf jeden Fall.
+
+431
+00:18:01,440 --> 00:18:03,440
+Wir hier möchte ich nicht bleiben.
+
+432
+00:18:03,440 --> 00:18:05,440
+Mach du, du kannst es hier...
+
+433
+00:18:05,440 --> 00:18:07,440
+Du hast es doch immer gemacht.
+
+434
+00:18:07,440 --> 00:18:09,440
+Ja, ich habe es doch immer gemacht.
+
+435
+00:18:09,440 --> 00:18:11,440
+Ich weiß auch nicht. Der krächt es doch sonst immer.
+
+436
+00:18:11,440 --> 00:18:13,440
+Der krächt es nicht mehr. Hallo.
+
+437
+00:18:13,440 --> 00:18:15,440
+Vielleicht müssen wir ihn ankrechten.
+
+438
+00:18:15,440 --> 00:18:17,440
+Krächzt!
+
+439
+00:18:17,440 --> 00:18:19,440
+Er macht nichts.
+
+440
+00:18:19,440 --> 00:18:21,440
+Er macht nichts.
+
+441
+00:18:21,440 --> 00:18:23,440
+Er ist die Batterie leer.
+
+442
+00:18:23,440 --> 00:18:25,440
+Oh Gott. Wir sind gefangen in der Zukunft.
+
+443
+00:18:25,440 --> 00:18:27,440
+Für immer.
+
+444
+00:18:27,440 --> 00:18:29,440
+Vielleicht ist es ja gar nicht so eine schlimme Zukunft.
+
+445
+00:18:31,440 --> 00:18:33,440
+Die Technologie beherrscht die Menschheit.
+
+446
+00:18:35,440 --> 00:18:37,440
+Jojo über alles.
+
+447
+00:18:37,440 --> 00:18:39,440
+Ah, ah, ah, ah.
+
+448
+00:18:41,440 --> 00:18:43,440
+Hilfe! Nein, ich bin hier weg.
+
+449
+00:18:43,440 --> 00:18:45,440
+Wenn Jojo jetzt...
+
+450
+00:18:45,440 --> 00:18:47,440
+wenn er jetzt immer noch lebt...
+
+451
+00:18:47,440 --> 00:18:49,440
+doch vielleicht mit dem Wecker...
+
+452
+00:18:49,440 --> 00:18:51,940
+Ja ja, die Technik, die ist doch so weit vor Ort geschritten,
+
+453
+00:18:51,940 --> 00:18:54,440
+da gibt es doch sicherlich eine Möglichkeit,
+
+454
+00:18:54,440 --> 00:18:56,440
+diesen Chocobo-Krechtswecker zu reparieren.
+
+455
+00:18:56,440 --> 00:18:58,940
+Oder wir fragen ihn einfach, ob er die Batterien austauschen kann.
+
+456
+00:18:58,940 --> 00:19:00,940
+Ja klar, los zu Jojo.
+
+457
+00:19:01,940 --> 00:19:07,440
+Und nun geht es weiter mit der Gerönenwäsche aus meiner Radiostation.
+
+458
+00:19:47,440 --> 00:19:52,440
+Und nun geht es weiter mit der Gerönenwäsche aus meiner Radiostation.
+
+459
+00:20:17,440 --> 00:20:21,440
+Und nun geht es weiter mit der Gerönenwäsche aus meiner Radiostation.
+
+460
+00:20:47,440 --> 00:20:51,440
+Und nun geht es weiter mit der Gerönenwäsche aus meiner Radiostation.
+
+461
+00:21:17,440 --> 00:21:21,440
+Und nun geht es weiter mit der Gerönenwäsche aus meiner Radiostation.
+
+462
+00:21:47,440 --> 00:21:50,440
+Und nun geht es weiter mit der Gerönenwäsche aus meiner Radiostation.
+
+463
+00:22:17,440 --> 00:22:20,440
+Hey, hey, hey, da sind wir wieder.
+
+464
+00:22:20,440 --> 00:22:23,440
+Was, was, was ist denn hier?
+
+465
+00:22:23,440 --> 00:22:26,440
+Wir dachten, wir kommen mal auf einen Besuch vorbei,
+
+466
+00:22:26,440 --> 00:22:28,440
+einen Klausch unter alten Freunden.
+
+467
+00:22:28,440 --> 00:22:30,440
+Existiert doch gar nicht mehr.
+
+468
+00:22:30,440 --> 00:22:33,440
+Uns ist ein kleines Missgeschick passiert.
+
+469
+00:22:33,440 --> 00:22:36,440
+Du weißt ja noch, diesen Chocobo-Krechts, was du immer, Wecker,
+
+470
+00:22:36,440 --> 00:22:37,440
+den du uns geschenkt hast.
+
+471
+00:22:37,440 --> 00:22:38,440
+Genau, der ist leider...
+
+472
+00:22:38,440 --> 00:22:39,440
+Den du uns gegeben hast.
+
+473
+00:22:39,440 --> 00:22:41,440
+Ja genau, der ist in uns gegeben, der ist kaputt.
+
+474
+00:22:41,440 --> 00:22:44,440
+Also wir sind irgendwie hier in die Zukunft gelandet.
+
+475
+00:22:44,440 --> 00:22:47,440
+Ich weiß auch nicht, wie, weißt du, wie...
+
+476
+00:22:47,440 --> 00:22:49,440
+Ich glaube die Batterien sind leer geworden.
+
+477
+00:22:49,440 --> 00:22:50,440
+Ist auch egal.
+
+478
+00:22:50,440 --> 00:22:52,440
+Auf jeden Fall kannst du uns den vielleicht reparieren,
+
+479
+00:22:52,440 --> 00:22:54,440
+dass wir wieder in die Gegenwart zurückkommen.
+
+480
+00:22:54,440 --> 00:22:55,440
+Raus, raus!
+
+481
+00:22:55,440 --> 00:22:57,440
+Jojo, hey Alter.
+
+482
+00:22:57,440 --> 00:23:00,440
+Du bist doch unser Freund, ich dachte, hier tun die doch auch.
+
+483
+00:23:00,440 --> 00:23:02,440
+Hey, hey, verschwindet, verschwindet!
+
+484
+00:23:02,440 --> 00:23:04,440
+Existiert gar nicht.
+
+485
+00:23:04,440 --> 00:23:07,440
+Geht aus meinem Kopf, aus meinem Kopf heraus.
+
+486
+00:23:07,440 --> 00:23:08,440
+Was soll das denn?
+
+487
+00:23:08,440 --> 00:23:09,440
+Wir wollen wieder zurück in die Gegenwart.
+
+488
+00:23:09,440 --> 00:23:10,440
+Hilf uns doch.
+
+489
+00:23:10,440 --> 00:23:11,440
+Hier, guck mich hier, der Chocobo-Krechts.
+
+490
+00:23:11,440 --> 00:23:13,440
+Ich weiß nicht, die Batterien fehlen oder irgendwie sowas.
+
+491
+00:23:13,440 --> 00:23:15,440
+Ich bild mir das nur ein.
+
+492
+00:23:15,440 --> 00:23:17,440
+Das ist wirklich, das kann nicht sein.
+
+493
+00:23:17,440 --> 00:23:19,440
+Die sind doch schon lange verschwunden.
+
+494
+00:23:19,440 --> 00:23:22,440
+Ich muss zu viel von meinen Kernwäsche-Wällen
+
+495
+00:23:22,440 --> 00:23:24,440
+abbekommen haben aus dieser Radiostation.
+
+496
+00:23:24,440 --> 00:23:27,440
+Kernwäsche-Wällen aus einer Radiostation?
+
+497
+00:23:27,440 --> 00:23:30,440
+DJ Donn und X-Sit existieren nicht mehr,
+
+498
+00:23:30,440 --> 00:23:32,440
+dass das kann nicht sein.
+
+499
+00:23:32,440 --> 00:23:34,440
+Ja, bei uns gibt's doch noch...
+
+500
+00:23:34,440 --> 00:23:37,440
+Hallo, Jojo, hier, wir stehen doch hier.
+
+501
+00:23:37,440 --> 00:23:40,440
+Du sollst unsere Zeitmaschine reparieren.
+
+502
+00:23:40,440 --> 00:23:43,440
+Chocobo-Krechts-Wäcker.
+
+503
+00:23:43,440 --> 00:23:46,440
+Zeitmaschine.
+
+504
+00:23:46,440 --> 00:23:49,440
+Das kann nicht sein, das kann nicht sein.
+
+505
+00:23:49,440 --> 00:23:53,440
+Das letzte Exemplar steht in meiner Vitrine.
+
+506
+00:23:53,440 --> 00:23:54,440
+Was für eine Vitrine?
+
+507
+00:23:54,440 --> 00:23:56,440
+Da drüben ist eine Vitrine.
+
+508
+00:23:56,440 --> 00:23:58,440
+Das ist unsere Chance, DJ Donn.
+
+509
+00:23:58,440 --> 00:24:00,440
+Wenn das Exemplar noch funktioniert, dann können wir hier weg.
+
+510
+00:24:00,440 --> 00:24:02,440
+Ich schlag einfach die Vitrine ein
+
+511
+00:24:02,440 --> 00:24:04,440
+und dann sind wir endlich weg aus dieser Zukunft
+
+512
+00:24:04,440 --> 00:24:06,440
+mit Gehirnwällen und Jojo.
+
+513
+00:24:06,440 --> 00:24:08,440
+Was, was, was soll das?
+
+514
+00:24:08,440 --> 00:24:09,440
+Alarm!
+
+515
+00:24:09,440 --> 00:24:11,440
+Lass die Laser, was du fandest, los.
+
+516
+00:24:11,440 --> 00:24:14,440
+Schießt auf alles, was sich bewegt.
+
+517
+00:24:15,440 --> 00:24:17,440
+Das ist ein neuer Chocobo-Krechtsäcker.
+
+518
+00:24:17,440 --> 00:24:20,440
+Ich weiß nicht genau, wo man da hier die Zeit einstellen muss.
+
+519
+00:24:20,440 --> 00:24:22,440
+Also hier stellt man das Jahr ein.
+
+520
+00:24:22,440 --> 00:24:24,440
+Schneller, schneller.
+
+521
+00:24:24,440 --> 00:24:26,440
+Ich verstehe, wie die Lasermaster passen
+
+522
+00:24:26,440 --> 00:24:28,440
+oder was auch immer dieser Jojo da gestrehen hat.
+
+523
+00:24:28,440 --> 00:24:29,440
+Wenigstens für die Uhrzeit.
+
+524
+00:24:29,440 --> 00:24:30,440
+Das ist so einfach.
+
+525
+00:24:30,440 --> 00:24:31,440
+Den Zeiger drehen.
+
+526
+00:24:31,440 --> 00:24:33,440
+Du musst den Zeiger drehen, wehen.
+
+527
+00:24:33,440 --> 00:24:34,440
+Ja, das ist nicht so einfach.
+
+528
+00:24:34,440 --> 00:24:36,440
+Ich kann das Ganze nicht im Zehnersystem eingehen.
+
+529
+00:24:36,440 --> 00:24:39,440
+Ich muss die Binominalkulfizienten erst errechnen.
+
+530
+00:24:39,440 --> 00:24:40,440
+Das kann doch nicht so kompliziert sein.
+
+531
+00:24:40,440 --> 00:24:41,440
+Eins bis Eins ist gut.
+
+532
+00:24:41,440 --> 00:24:43,440
+Ich kann mich nicht konzentrieren, wenn du mich zulaberst.
+
+533
+00:24:43,440 --> 00:24:44,440
+Ja, dann mach doch.
+
+534
+00:24:44,440 --> 00:24:46,440
+Die Lasermaster fanden.
+
+535
+00:24:46,440 --> 00:24:48,440
+Die Judges, da, endlich.
+
+536
+00:24:48,440 --> 00:24:50,440
+Nimm die Gefangen.
+
+537
+00:24:50,440 --> 00:24:54,440
+Alk, ich finde das gesetzt.
+
+538
+00:24:54,440 --> 00:24:58,440
+Sie sind festgenommen im Namen der Gesetzgarte Nr. 12.
+
+539
+00:24:58,440 --> 00:24:59,440
+Beide ich die Judges.
+
+540
+00:24:59,440 --> 00:25:01,440
+Zitt die Judges.
+
+541
+00:25:01,440 --> 00:25:02,440
+Ich glaube, ich komme langsam dahinter.
+
+542
+00:25:02,440 --> 00:25:04,440
+Wenn ich die Binominalkulfizienten
+
+543
+00:25:04,440 --> 00:25:07,440
+durch eine Konvergenzmatrix zur Basis 3 teile,
+
+544
+00:25:07,440 --> 00:25:09,440
+dann müsste es hinkommen.
+
+545
+00:25:09,440 --> 00:25:10,440
+Jetzt ist ja voll interessant.
+
+546
+00:25:10,440 --> 00:25:12,440
+Die Judges sind da und ich will wieder zurück in die Gegenwart.
+
+547
+00:25:12,440 --> 00:25:14,440
+Jetzt beeide ich durch den Knopf.
+
+548
+00:25:14,440 --> 00:25:15,440
+Nein!
+
+549
+00:25:15,440 --> 00:25:16,440
+Nicht zurück!
+
+550
+00:25:16,440 --> 00:25:19,440
+Meine Gedanken!
+
+551
+00:25:23,440 --> 00:25:24,440
+Das macht sich ja gut.
+
+552
+00:25:24,440 --> 00:25:26,440
+Ich denke, das werde ich schaffen.
+
+553
+00:25:26,440 --> 00:25:31,440
+Also, diese Gehirnwellen, das ist eine tolle Sache.
+
+554
+00:25:31,440 --> 00:25:35,440
+Naja, bis jetzt machen sie ja nur Kopfschmerzen eigentlich.
+
+555
+00:25:35,440 --> 00:25:38,440
+Schau mal, was du fanden gefällt.
+
+556
+00:25:42,440 --> 00:25:45,440
+Diese Zeitreisen, das macht auch immer auf irgendwas drauf fällt.
+
+557
+00:25:45,440 --> 00:25:48,440
+Meine 4 Tonne.
+
+558
+00:25:48,440 --> 00:25:51,440
+Oh, da seid ihr wieder.
+
+559
+00:25:51,440 --> 00:25:53,440
+Ihr seid zurückgekehrt.
+
+560
+00:25:53,440 --> 00:25:55,440
+Was machst du hier?
+
+561
+00:25:55,440 --> 00:25:58,440
+Was sollen diese ganzen Kabel an unseren Geräten?
+
+562
+00:25:58,440 --> 00:25:59,440
+Macht das weg?
+
+563
+00:25:59,440 --> 00:26:01,440
+Das ist für Antennen.
+
+564
+00:26:01,440 --> 00:26:03,440
+Du weißt ja gar nicht, was uns passiert ist.
+
+565
+00:26:03,440 --> 00:26:04,440
+Sie waren in der Zukunft.
+
+566
+00:26:04,440 --> 00:26:06,440
+Da hast du uns diesen neuen Chocobo-Krechtswecker gegeben.
+
+567
+00:26:06,440 --> 00:26:08,440
+Und du warst sowieso...
+
+568
+00:26:08,440 --> 00:26:09,440
+Da hängt Baalsch.
+
+569
+00:26:09,440 --> 00:26:10,440
+Da hängt Baalsch.
+
+570
+00:26:10,440 --> 00:26:12,440
+Und da tun und Bilder.
+
+571
+00:26:12,440 --> 00:26:14,440
+Das hört sich interessant an.
+
+572
+00:26:14,440 --> 00:26:16,440
+Daran sollte ich weiterarbeiten.
+
+573
+00:26:16,440 --> 00:26:18,440
+Aber zeig mir mal diesen Chocobo weg.
+
+574
+00:26:18,440 --> 00:26:20,440
+Der ist interessant.
+
+575
+00:26:20,440 --> 00:26:23,440
+Ich glaube, den werde ich mal näher untersuchen.
+
+576
+00:26:23,440 --> 00:26:25,440
+Am besten in deinem Labor.
+
+577
+00:26:25,440 --> 00:26:26,440
+Tschüss, Jojo.
+
+578
+00:26:26,440 --> 00:26:28,440
+Wiedersehen.
+
+579
+00:26:30,440 --> 00:26:34,440
+Ich verstehe dadurch, dass wir ja nicht in der Gegenwart waren,
+
+580
+00:26:34,440 --> 00:26:35,440
+sondern...
+
+581
+00:26:35,440 --> 00:26:36,440
+Welcher Gegenwart?
+
+582
+00:26:36,440 --> 00:26:38,440
+Ich meine, der Gegenwart für jetzt sind.
+
+583
+00:26:38,440 --> 00:26:39,440
+Genau.
+
+584
+00:26:39,440 --> 00:26:42,440
+Aus der Vergangenheit sind wir gesprungen in die Zukunft
+
+585
+00:26:42,440 --> 00:26:45,440
+und waren deswegen nicht in der Gegenwart.
+
+586
+00:26:45,440 --> 00:26:48,440
+Deshalb, Jojo, es macht Phantasien in so ein endlich gestiegen sind
+
+587
+00:26:48,440 --> 00:26:51,440
+und er überall mit seinen Glirnwellen
+
+588
+00:26:51,440 --> 00:26:55,440
+und unserer Radiostation die Welt beherrscht hat.
+
+589
+00:26:55,440 --> 00:26:57,440
+Jetzt ergibt alles einen Sinn.
+
+590
+00:26:57,440 --> 00:26:58,440
+Findest du?
+
+591
+00:26:58,440 --> 00:27:00,440
+Oh, ein Klopfen ging.
+
+592
+00:27:00,440 --> 00:27:02,440
+Das ist der Kubo Gema-Mann.
+
+593
+00:27:02,440 --> 00:27:04,440
+Aber der war doch schon da.
+
+594
+00:27:04,440 --> 00:27:05,440
+Wieso soll der noch mal kommen?
+
+595
+00:27:05,440 --> 00:27:06,440
+Jetzt ist die halbe Stunde um.
+
+596
+00:27:06,440 --> 00:27:07,440
+Die Gemo-Zeit.
+
+597
+00:27:07,440 --> 00:27:08,440
+Sie ist da.
+
+598
+00:27:08,440 --> 00:27:09,440
+Sie will unser Geld.
+
+599
+00:27:09,440 --> 00:27:10,440
+Sie will unser Leben.
+
+600
+00:27:10,440 --> 00:27:11,440
+Wir haben noch kein Geld.
+
+601
+00:27:11,440 --> 00:27:12,440
+Was machen wir denn jetzt?
+
+602
+00:27:12,440 --> 00:27:13,440
+Lass uns, wir müssen weglaufen.
+
+603
+00:27:13,440 --> 00:27:15,440
+Komm, wir sind zurück in die Zukunft.
+
+604
+00:27:15,440 --> 00:27:16,440
+Nein, wir haben den nicht mehr.
+
+605
+00:27:16,440 --> 00:27:18,440
+Wir haben nicht mehr den Chocobo-Krechtswecker.
+
+606
+00:27:18,440 --> 00:27:19,440
+Hallo.
+
+607
+00:27:19,440 --> 00:27:20,440
+Hallo.
+
+608
+00:27:20,440 --> 00:27:21,440
+Hallo.
+
+609
+00:27:21,440 --> 00:27:22,440
+Ist da jemand?
+
+610
+00:27:22,440 --> 00:27:24,440
+Kubo, ich bin durch die Hütte gekommen.
+
+611
+00:27:24,440 --> 00:27:25,440
+Kubo, weil die stand offen.
+
+612
+00:27:25,440 --> 00:27:27,440
+Und ich dachte, ich komme rein.
+
+613
+00:27:27,440 --> 00:27:29,440
+Die ganze Schlammasse ist nur deine Schuld.
+
+614
+00:27:29,440 --> 00:27:31,440
+Hättest du von Anfang an die Hintertür zugemacht?
+
+615
+00:27:31,440 --> 00:27:33,440
+Wird das alles nicht passiert?
+
+616
+00:27:33,440 --> 00:27:35,440
+Was heißt denn hier Hintertür?
+
+617
+00:27:35,440 --> 00:27:36,440
+Was heißt denn hier passiert?
+
+618
+00:27:36,440 --> 00:27:37,440
+Was soll ich denn machen?
+
+619
+00:27:37,440 --> 00:27:39,440
+Jeder hat seine Fehler.
+
+620
+00:27:39,440 --> 00:27:40,440
+Jeder hat seine Probleme.
+
+621
+00:27:40,440 --> 00:27:41,440
+Jeder hat seine Probleme.
+
+622
+00:27:41,440 --> 00:27:42,440
+Jeder hat seine Probleme.
+
+623
+00:27:42,440 --> 00:27:43,440
+Jeder ist auf dich zurückzufühlt.
+
+624
+00:27:43,440 --> 00:27:44,440
+Vielleicht hätten wir in der Zukunft
+
+625
+00:27:44,440 --> 00:27:45,440
+dir mal ein bisschen was beibringen sollen.
+
+626
+00:27:45,440 --> 00:27:46,440
+Jeder hat seine Fehler.
+
+627
+00:27:46,440 --> 00:27:48,440
+Du hast Fehler, mein lieber MC City.
+
+628
+00:27:48,440 --> 00:27:50,440
+Ein bisschen gesunden Menschenverstand hätten wir dir beibringen können.
+
+629
+00:27:50,440 --> 00:27:52,440
+Also, es tut mir leid.
+
+630
+00:27:52,440 --> 00:27:54,440
+Ich möchte sie ja nicht unterbrechen.
+
+631
+00:27:54,440 --> 00:27:56,440
+Kubo, aber ich bin eigentlich...
+
+632
+00:27:56,440 --> 00:27:57,440
+Leid, wir haben das Geld nicht.
+
+633
+00:27:57,440 --> 00:27:59,440
+Ich weiß ja nicht, wo wir das Geld haben.
+
+634
+00:27:59,440 --> 00:28:00,440
+Aber ich habe es nicht.
+
+635
+00:28:00,440 --> 00:28:01,440
+Ich habe es unter dem Bett gesucht.
+
+636
+00:28:01,440 --> 00:28:02,440
+Wir haben wirklich nichts.
+
+637
+00:28:02,440 --> 00:28:04,440
+Wir sind arme, arme Radiomoderatoren.
+
+638
+00:28:04,440 --> 00:28:07,440
+Ich weiß gar nicht, wovon sie so genau reden.
+
+639
+00:28:07,440 --> 00:28:11,440
+Kubo, also, das Geld habe ich dabei.
+
+640
+00:28:11,440 --> 00:28:12,440
+Ja, genau.
+
+641
+00:28:12,440 --> 00:28:14,440
+Was für Geld?
+
+642
+00:28:14,440 --> 00:28:19,440
+Nun, Sie wissen ja, ich komme doch regelmäßig hier von der G-Mog Z
+
+643
+00:28:19,440 --> 00:28:22,440
+um die Gebühren zu verteilen, Kubo.
+
+644
+00:28:22,440 --> 00:28:25,440
+Die Gebühren, die wir nehmen für die ausländische Musik.
+
+645
+00:28:25,440 --> 00:28:30,440
+Kubo und an die qualitativ hochwertigen Radiosender verteilen.
+
+646
+00:28:30,440 --> 00:28:32,440
+Kubo, also an Sie zum Beispiel.
+
+647
+00:28:32,440 --> 00:28:34,440
+Dani ist irgendwas schief gelaufen und wir sind jetzt in einem
+
+648
+00:28:34,440 --> 00:28:37,440
+parallel-Universum in der Gegenteilwelt gelandet.
+
+649
+00:28:37,440 --> 00:28:39,440
+Nein, nein, nein, das hat funktioniert.
+
+650
+00:28:39,440 --> 00:28:41,440
+Wir haben doch mit dem Chocobock-Rechtsbecker
+
+651
+00:28:41,440 --> 00:28:44,440
+alle ausländischen Lieder, die die Menschen da draußen gerne hören,
+
+652
+00:28:44,440 --> 00:28:46,440
+gelöscht und durch andere widersetzt.
+
+653
+00:28:46,440 --> 00:28:52,440
+Das heißt, dass jetzt sind wir eine rechtlich angesehene Radiostation
+
+654
+00:28:52,440 --> 00:28:55,440
+und bekommen die Gebühren statt, dass wir sie zahlen müssen.
+
+655
+00:28:55,440 --> 00:29:00,440
+Ja, und wie ihr seht, habe ich euch schon mal den Vorschuss gebracht,
+
+656
+00:29:00,440 --> 00:29:03,440
+um den ihr mich im letzten Monat gebeten habt.
+
+657
+00:29:03,440 --> 00:29:05,440
+Hier ist euer Vorschuss für das nächste Jahr.
+
+658
+00:29:05,440 --> 00:29:08,440
+Was wir auch immer gemacht haben, wir hatten sowas von Recht.
+
+659
+00:29:08,440 --> 00:29:11,440
+Der Vorschuss, ich erinnere mich als wäre es gestern gewesen.
+
+660
+00:29:11,440 --> 00:29:14,440
+Der Vorschuss, ja, mit dem Vorschuss.
+
+661
+00:29:14,440 --> 00:29:18,440
+Dann noch viel Erfolg, Kubo, bei eurem Radio. Viel Spaß.
+
+662
+00:29:18,440 --> 00:29:20,440
+Ja, vielen Dank.
+
+663
+00:29:20,440 --> 00:29:22,440
+Wir sehen uns dann.
+
+664
+00:29:22,440 --> 00:29:24,440
+Ich strecke euch die Daumen.
+
+665
+00:29:24,440 --> 00:29:26,440
+Tschüss.
+
+666
+00:29:26,440 --> 00:29:29,440
+Ein Batzengeld, damit können wir machen, was wir wollen.
+
+667
+00:29:29,440 --> 00:29:32,440
+Hatten wir nicht eigentlich schon was vor?
+
+668
+00:29:32,440 --> 00:29:34,440
+Ich wollte mir doch noch Socken kaufen.
+
+669
+00:29:34,440 --> 00:29:36,440
+Socken?
+
+670
+00:29:36,440 --> 00:29:38,440
+Ja, ich habe doch nur ein paar Socken.
+
+671
+00:29:38,440 --> 00:29:41,440
+Aber ich glaube, man kann auch noch bessere Sachen damit machen.
+
+672
+00:29:41,440 --> 00:29:43,440
+Was denn?
+
+673
+00:29:43,440 --> 00:29:46,440
+Wir wollten verreisen, neue Länder sehen.
+
+674
+00:29:46,440 --> 00:29:48,440
+Da war ja was.
+
+675
+00:29:48,440 --> 00:29:51,440
+Guck mal, wie praktisch. Hier stehen gepackte Koffer.
+
+676
+00:29:51,440 --> 00:29:53,440
+Gepackte Koffer?
+
+677
+00:29:53,440 --> 00:29:55,440
+Unglaublich.
+
+678
+00:29:55,440 --> 00:29:57,440
+Und mit dem Geld? Was können wir uns davon kaufen?
+
+679
+00:29:57,440 --> 00:29:59,440
+Flugticket!
+
+680
+00:30:48,440 --> 00:30:51,440
+Copyright WDR 2021
 
